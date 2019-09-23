@@ -3,7 +3,7 @@ All users must read and respectfully follow these rules in order to avoid punish
 
 These rules apply to ALL NexusNation servers and are non disputable.
 
-Common sense applies to ALL rules, attempting to find loopholes by saying ìthis isnít specifically stated in the rulesî will result in a warn.
+Common sense applies to ALL rules, attempting to find loopholes by saying ‚Äúthis isn‚Äôt specifically stated in the rules‚Äù will result in a warn.
 
 1. No mic spam, chat spam, voice manipulation software or links in chat.
 	1. No unnecessary use of microphone (shouting, screaming, arguing, playing music)
