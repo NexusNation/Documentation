@@ -189,4 +189,4 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 | !stats | Opens stats menu |
 | !stop | Stops all sounds |
 
-### If you want more info on Jailbreak, please look at the [JailBreak Guide](https://thenexusnation.com/jailbreak-guide)
+### If you want more info on Jailbreak, please look at the [Jailbreak Guide](https://thenexusnation.com/jailbreak-guide)
