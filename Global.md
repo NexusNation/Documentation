@@ -15,7 +15,7 @@ Common sense applies to ALL rules, attempting to find loopholes by saying “thi
 
 2. No impersonating or disrespecting players / staff. 
 	1. Do not impersonate staff or other players names, through VIP tags or steam name.
-    2. Do not excessively hound, insult or target players or staff.
+	2. Do not excessively hound, insult or target players or staff.
 
 
 3. No external programs, software or scripts. 
