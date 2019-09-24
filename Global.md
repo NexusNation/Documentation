@@ -23,7 +23,7 @@ Common sense applies to ALL rules, attempting to find loopholes by saying “thi
 
 
 4. No map/server exploiting. 
-	1. If you find an exploit within the server or the map, report it ASAP on the Nexusnation website or to a moderator if one is present.
+	1. If you find an exploit within the server or the map, report it ASAP on the NexusNation website or to a moderator if one is present.
 	2. If you are caught abusing an exploit, you will be permanently banned. Sharing exploits is also a bannable offense.
 
 
