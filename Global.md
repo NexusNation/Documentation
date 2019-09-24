@@ -36,7 +36,7 @@ Common sense applies to ALL rules, attempting to find loopholes by saying “thi
 
 
 7. No spamming map music features.
-	1.Constantly changing songs is considered trolling, any hidden secrets that activate a sound queue should be pressed once and once only. Over use of this is spam and will be dealt with.
+	1. Constantly changing songs is considered trolling, any hidden secrets that activate a sound queue should be pressed once and once only. Over use of this is spam and will be dealt with.
 
 
 8. No abuse of the Call Admin feature.
