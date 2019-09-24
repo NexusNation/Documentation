@@ -4,7 +4,7 @@ These rules apply to ALL NexusNation servers and are non disputable.
 
 Common sense applies to ALL rules, attempting to find loopholes by saying “this isn’t specifically stated in the rules” will result in a warn.
 
-## 1. No mic spam, chat spam, voice manipulation software or links in chat.
+1. No mic spam, chat spam, voice manipulation software or links in chat.
 	1. No unnecessary use of microphone (shouting, screaming, arguing, playing music)
 	2. No posting more than 4 successive messages in a short amount of time. 
 	3. No use of software that manipulates the output of your voice to the server.
