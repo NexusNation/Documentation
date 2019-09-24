@@ -157,36 +157,36 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 		3. Snitching by a member of the hiding team is not allowed. This will ruin the round for other members of the hiding team as their position has just been given away. People who break this rule will be punished accordingly.
 8. ##Commands
 
-##Commands | Function
------------- | -------------
-!t, !p, !prisoner | Switches you to the Prisoners team
-!ct, !g, !guard | Switches you to the Guard team
-!menu | Opens Guard/Prisoner/Spectator Menu
-!open | Opens the cells
-!close | Closes the cells
-!days | Open special days menu
-!mini | Open mini games menu
-!fd | Open freeday menu
-!heal | Open heal menu
-!glow | Open glow menu
-!qrevive | Open quick revive menu
-!tools | Open tools menu
-!w | Claims warden
-!tw | Transfers warden
-!guns | Open guns menu
-!math | Starts a math challenge
-!lr | Open Last Request menu
-!ball | Aquire the ball
-!reset | Resets the ball
-!gang, !gangs | Opens gang menu
-!gsay | Communicate with fellow gang members
-!squad, !squads | Opens squad menu
-!ssay | Communicate with fellow squad members
-!bm, !blackmarket | Opens T Item menu
-!fa, !federal | Opens CT Item menu
-!store | Opens Store menu
-!credits | Check all players credits (prints your credits in chat)
-!stats | Opens stats menu
-!stop | Stops all sounds 
+| Commands | Function |
+| ------------ | ------------- |
+| !t, !p, !prisoner | Switches you to the Prisoners team |
+| !ct, !g, !guard | Switches you to the Guard team |
+| !menu | Opens Guard/Prisoner/Spectator Menu |
+| !open | Opens the cells |
+| !close | Closes the cells |
+| !days | Open special days menu |
+| !mini | Open mini games menu |
+| !fd | Open freeday menu |
+| !heal | Open heal menu |
+| !glow | Open glow menu |
+| !qrevive | Open quick revive menu |
+| !tools | Open tools menu |
+| !w | Claims warden |
+| !tw | Transfers warden |
+| !guns | Open guns menu |
+| !math | Starts a math challenge |
+| !lr | Open Last Request menu |
+| !ball | Aquire the ball |
+| !reset | Resets the ball |
+| !gang, !gangs | Opens gang menu |
+| !gsay | Communicate with fellow gang members |
+| !squad, !squads | Opens squad menu |
+| !ssay | Communicate with fellow squad members |
+| !bm, !blackmarket | Opens T Item menu |
+| !fa, !federal | Opens CT Item menu |
+| !store | Opens Store menu |
+| !credits | Check all players credits (prints your credits in chat) |
+| !stats | Opens stats menu |
+| !stop | Stops all sounds |
 
 ### If you want more info on Jailbreak, please look at the [JailBreak Guide](https://thenexusnation.com/jailbreak-guide)
