@@ -4,7 +4,7 @@ Well now you can take a look for yourself and decide before you buy!
 
 # Non-VIP Section
 
-| Player Models |  |  |
+|  | <h1>Player Models</h1> |  |
 | :----------: | :----------: | :----------: |
 | ![Barry Burton](https://imgur.com/GYpPmax.png) <p>Barry Burton</p> | ![Coach](https://imgur.com/pv9Yzhy.png) <p>Coach</p> | ![Ellis](https://imgur.com/LXSJ98t.png) <p>Ellis</p> |
 | ![Jason Voorhees](https://imgur.com/URUqxf4.png) <p>Jason Voorhees</p> | ![Scout (Blue)](https://imgur.com/ouSCdXF.png) <p>Scout (Blue)</p> | ![Scout (Red)](https://imgur.com/uuIdMcm.png) <p>Scout (Red)</p> |
