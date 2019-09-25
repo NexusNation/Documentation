@@ -6,6 +6,6 @@ Well now you can take a look for yourself and decide before you buy!
 
 |  | <h3>Player Models</h3> |  |
 | :----------: | :----------: | :----------: |
-| ![Barry Burton](https://imgur.com/GYpPmax.png) <p>Barry Burton</p> | ![Coach](https://imgur.com/pv9Yzhy.png) <p>Coach</p> | ![Ellis](https://imgur.com/LXSJ98t.png) <p>Ellis</p> |
-| ![Jason Voorhees](https://imgur.com/URUqxf4.png) <p>Jason Voorhees</p> | ![Scout (Blue)](https://imgur.com/ouSCdXF.png) <p>Scout (Blue)</p> | ![Scout (Red)](https://imgur.com/uuIdMcm.png) <p>Scout (Red)</p> |
-| ![Sniper (Red)](https://imgur.com/PEmFkOh.png) <p>Sniper (Red)</p> | ![Sneaking Suit](https://imgur.com/OXx6nTi.png) <p>Sneaking Suit</p> | ![Niko Bellic](https://imgur.com/p9NSepZ.png) <p>Niko Bellic</p> |
+| ![Barry Burton](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/barry.png?raw=true) <p>Barry Burton</p> | ![Coach](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/coach.png?raw=true) <p>Coach</p> | ![Ellis](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/ellis.png?raw=true) <p>Ellis</p> |
+| ![Jason Voorhees](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/jason.png?raw=true) <p>Jason Voorhees</p> | ![Scout (Blue)](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/scout_blue.png?raw=true) <p>Scout (Blue)</p> | ![Scout (Red)](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/scout_red.png?raw=true) <p>Scout (Red)</p> |
+| ![Sniper (Red)](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/sniper_red.png?raw=true) <p>Sniper (Red)</p> | ![Sneaking Suit](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/snake.png?raw=true) <p>Sneaking Suit</p> | ![Niko Bellic](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/niko.png?raw=true) <p>Niko Bellic</p> |
