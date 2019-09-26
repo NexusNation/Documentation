@@ -10,7 +10,7 @@ Common sense applies to ALL rules, attempting to find loopholes by saying “thi
 	3. No use of software that manipulates the output of your voice to the server.
 	4. Posting external links in text chat is forbidden for cyber security reasons. 
 	5. No use of coloured text. 
-	6. On non combat servers such as surf and bhop,  you are allowed to sing/ rap, **if** the majority of the server is enjoying it. 
+	6. On non combat servers such as surf and bhop, you are allowed to sing/ rap, **if** the majority of the server is enjoying it. 
 
 
 2. No impersonating or disrespecting players / staff. 
