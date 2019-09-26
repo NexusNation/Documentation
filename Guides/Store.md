@@ -35,3 +35,4 @@ This isn't the full list of items available to Non-VIP Members as there are just
 
 |  | <h3>Wings</h3> |  |
 | ---------- | ---------- | ---------- |
+| ![Blue](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/blue.png?raw=true) <p>Blue</p> | ![Cyan](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/cyan.png?raw=true) <p>Cyan</p> | ![Green](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/green.png?raw=true) <p>Green</p> |
