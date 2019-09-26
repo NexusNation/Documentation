@@ -46,7 +46,5 @@ This isn't the full list of items available to Non-VIP Members as there are just
 |  | <h3>Hats</h3> |  |
 | ---------- | ---------- | ---------- |
 | ![Afro](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/afro.png?raw=true) <p>Blue</p> | ![Baseball Cap](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/baseball_cap.png?raw=true) <p>Baseball Cap</p> | ![KFC Bucket](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/kfc_bucket.png?raw=true) <p>KFC Bucket</p> |
-
 | ![Coffee Mug](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/coffee_mug.png?raw=true) <p>Coffee Mug</p> | ![Mudkip](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/mudkip.png?raw=true) <p>Mudkip</p> | ![Suess Hat](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/suess_hat.png?raw=true) <p>Suess Hat</p> |
-
 | ![V Mask](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/v_mask.png?raw=true) <p>V Mask</p> | ![Viking Helmet](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/viking_helmet.png?raw=true) <p>Viking Helmet</p> | ![Pedobear](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/pedobear.png?raw=true) <p>Pedobear</p> |
