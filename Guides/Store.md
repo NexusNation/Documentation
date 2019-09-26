@@ -53,3 +53,16 @@ This isn't the full list of items available to Non-VIP Members as there are just
 
 |   |   |   | <h3>Pets</h3> |   |   |   |
 | - | - | - | ------------- | - | - | - |
+| ![Zombie Chicken](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/zombie_chicken.png?raw=true) <p>Zombie Chicken</p> | ![Seagull](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull.png?raw=true) <p>Seagull</p> | ![Seagull Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull_flying.png?raw=true) <p>Seagull Flying</p> | ![Pigeon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon.png?raw=true) <p>Pigeon</p> | ![Pigeon Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon_flying.png?raw=true) <p>Pigeon Flying</p> | ![Crow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow.png?raw=true) <p>Crow</p> | ![Crow Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow_flying.png?raw=true) <p>Crow Flying</p> |
+
+----------
+
+### Extra Information
+
+This isn't the full list of items available to VIP's as there are just to many to list! These are the most asked about/used items in the store but we also have VIP Trails, Tracers, Masks and many more items to come!
+
+All items bought in the store will be available to you on all NexusNation servers so you only need to buy an item once!
+
+This post will be updated regularly with new items available only to VIP members (Available via donation [here](https://thenexusnation.com/store/)).
+
+If you have any suggestions of things you would like to see added to the store then feel free to suggest them [here](https://thenexusnation.com/suggestions).
