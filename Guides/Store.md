@@ -40,3 +40,13 @@ This isn't the full list of items available to Non-VIP Members as there are just
 | ![Fire and Ice](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/fire_and_ice.png?raw=true) <p>Fire and Ice</p> | ![Fuce](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/fuce.png?raw=true) <p>Fuce</p> | ![Hao](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/hao.png?raw=true) <p>Hao</p> |
 | ![Izy](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/izy.png?raw=true) <p>Izy</p> | ![Spon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/spon.png?raw=true) <p>Spon</p> | ![Lats](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/lats.png?raw=true) <p>Lats</p> |
 | ![Luca](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/luca.png?raw=true) <p>Luca</p> | ![Funa](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/wings/funa.png?raw=true) <p>Funa</p> |  |
+
+----------
+
+|  | <h3>Hats</h3> |  |
+| ---------- | ---------- | ---------- |
+| ![Afro](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/afro.png?raw=true) <p>Blue</p> | ![Baseball Cap](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/baseball_cap.png?raw=true) <p>Baseball Cap</p> | ![KFC Bucket](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/kfc_bucket.png?raw=true) <p>KFC Bucket</p> |
+
+| ![Coffee Mug](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/coffee_mug.png?raw=true) <p>Coffee Mug</p> | ![Mudkip](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/mudkip.png?raw=true) <p>Mudkip</p> | ![Suess Hat](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/suess_hat.png?raw=true) <p>Suess Hat</p> |
+
+| ![V Mask](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/v_mask.png?raw=true) <p>V Mask</p> | ![Viking Helmet](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/viking_helmet.png?raw=true) <p>Viking Helmet</p> | ![Pedobear](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/pedobear.png?raw=true) <p>Pedobear</p> |
