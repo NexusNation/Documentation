@@ -16,7 +16,9 @@ When it comes to rebelling, it's always best to plan strategically and only make
 
 **Black Market**
 
-The Black Market is a system which is put in place to assist the Prisoners with their rebellion. By executing the !bm command, a Prisoner can open the black market menu allowing them to purchase items such as highly explosive "Cluster Grenades" and even cutting the lights making everyone's screen completely black for a brief period of time!* Items from the Black Market, however, are not free. Items in the black market can be purchased with the in-game currency "credits". Credits can be accumulated by purchasing them from the [store](https://thenexusnation.com/store/), playing on the server and collecting credit boxes. _*cutting the lights requires VIP which is purchasable at the [store](https://thenexusnation.com/store/).
+The Black Market is a system which is put in place to assist the Prisoners with their rebellion. By executing the !bm command, a Prisoner can open the black market menu allowing them to purchase items such as highly explosive "Cluster Grenades" and even cutting the lights making everyone's screen completely black for a brief period of time! \* Items from the Black Market, however, are not free. Items in the black market can be purchased with the in-game currency "credits". Credits can be accumulated by purchasing them from the [store](https://thenexusnation.com/store/), playing on the server and collecting credit boxes. 
+
+\* Cutting the lights requires VIP which is purchasable at the [store](https://thenexusnation.com/store/).
 
 **Maps**
 
