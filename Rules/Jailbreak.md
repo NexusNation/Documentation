@@ -3,7 +3,7 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 1. ##Global Rules
 	1. The general rules must always be followed.
 	2. Honesty is key, please don't lie to staff about free-kills etc.
-	3.No trying to loophole the rules, use common sense. If you obviously loophole as a T, you can be KOSed.
+	3. No trying to loophole the rules, use common sense. If you obviously loophole as a T, you can be KOSed.
 	4. Do not talk over the warden at any time.
 	5. No team-killing using map triggers unless friendly fire is on.
 	6. Freezing allows players to stand, crouch and jump on the spot unless specified otherwise.
@@ -24,13 +24,20 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	22. Do not ghost (bait someone's position out) especially if you’re dead.
 	23. You may not interfere with an ongoing LR unless the prisoner rebels.
 	24. Special days are only allowed if requested in the LR menu. (Unless given permission by a staff member).
-	25. Free days are only allowed if requested in the LR menu.
+	25. Free days are only allowed if requested in the LR menu or won through a mini game.
 	26. No detours and delays implies on all commands. This also applies to Special days too, eg you can't just camp until you're last alive.
 	27. No cheating implies on all commands.
 	28. When being told to crouch, it implies stay crouched.
 	29. When making a gang make sure the name isn't offensive and that you're not advertising within the name.
 	30. You May not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
-2. ##Rules for Prisoners
+2. ##Newcomer Rules
+	1. Newcomer -- A Newcomer is a new player (with playtime less than 4 hours for a Prisoner, under 8 hours for a Guard), who’s playermodel is tinted green when not set to a different colour.
+	2. If a Newcomer did not make it to the previous LR Partners stage, at least 1 newcomer must be kept alive until LR Partners stage if possible.
+	3. If a prisoner is given the choice to choose prisoners to live/die, at least ⅓ of the surviving prisoners must be Newcomers.
+	4. Unless fully rebelling, Newcomers must always be warning shot instead of being KOS.
+	5. Be considerate of newcomer Guards. Do not Try and catch them on every little detail, but do feel free to inform them of any major mistakes they make.
+	6. Do not excessively target newcomer guards as an easy rebel. They are there to learn and you constantly targeting them will discourage them from learning how to properly be a guard.
+3. ##Rules for Prisoners
 	1. All prisoners are considered rebels if they are seen to be trying to escape or rush/attack a guard. (with exceptions)
 	2. Being in the armory, knifing or entering vents, shortcuts and having a gun unholstered (in hand) instantly makes prisoners a rebel unless the warden has given permission to do so.
 	3. Actively disobeying commands is classed as rebelling. This includes restriction commands.
@@ -42,41 +49,43 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	9. You have to actively participate in (map) mini-games (so you can't be just frozen and waiting).
 	10. When a Warden is trying to sort out a game to run don't be an asshole and try and ruin it for them, be considerate and allow them time to do so.
 	11. You're not allowed to use the !lr menu if you are the last prisoner alive and still in the process of completing a minigame or order.
-	12. Prisoners are allowed to be pardoned by a Warden if they are rebelling or have a gun, however, cannot be granted a free day, unless they get it through the !lr menu.
-	13. You are NOT allowed to lie about surrendering. If you state that you are surrendering you must come back with no weapons or projectiles.
-	14. If you do not have a microphone and you wish to talk you must afk freeze and type your message then go back to following the commands.
-	15. Toy guns are not allowed.
-	16. Intentionally supplying a weapon to another T is counted as rebelling.
-	17. You're allowed to snitch ONLY if the warden asks you specifically to do so.
-3. ##Rules For Guards
+	12. Prisoners are not allowed to be pardoned by a Warden if they are rebelling.
+	13. If you do not have a microphone and you wish to talk you must afk freeze and type your message then go back to following the commands.
+	14. Toy guns are not allowed.
+	15. Intentionally supplying a weapon to another T is counted as rebelling.
+	16. Prisoners are allowed to snitch only if the warden has granted them permission, which they may request.
+4. ##Rules For Guards
 	1. To be a guard you need to have a clear microphone and be willing to be a warden if selected.
-	2. Favouritism is not allowed in any form.
-	3. Guards cannot enter the vents unless a prisoner is seen inside the vents or entering a vent. One guard must be with the warden at all times, when there are more than 2 alive Guards.
-	4. Guards cannot open any secrets/vents if it will help a prisoner later on in the round.
-	5. Guards are not allowed to camp any type of vents, secrets, the armoury or any vent entrance/exit (for example, vent cells).
-	6. Guards are not allowed to give prisoners guns at any given point. Guards must give prisoners a fair chance to complete the warden's orders. Not doing so is classed as free killing.
-	7. Warning shots must be given as much as possible by holding down "E" and shooting a prisoner for non threatening actions. For example delaying, not facing the right direction, not crouching when told to do so, etc. Warning shots do not have to be given if a prisoner fails a mini-game, running away, inside a vent or hitting a vent or in the armoury.
-	8. Guards should leave the armoury by 9:30 and can only return to the armoury if a prisoner is seen in the armoury or for a very prompt ammo restock.
-	9. When there is only one rebelling prisoner remaining, guards are allowed to be sent by the warden to hunt any vents, secrets and the prison.
-	10. Guards can only attack rebelling prisoners. If you accidentally free shoot someone then you must heal them if requested. If you accidentally free kill someone you must revive them or kill yourself in the armoury.
-	11. The only orders a guard can give when there is a warden is to freeze, drop any weapons and throw any projectiles.
-	12. If you are selected for warden when the warden dies, prisoners to follow the previous wardens commands for 20 seconds after death.
-	13. Guards should always be considerate of prisoners that may not have a microphone.
-	14. Do not bait prisoners. This means coming within knifing distance, one step away from a prisoner, standing within the path of a moving transit of prisoners. If a prisoner knifes you from you baiting, you cannot retaliate.
-	15. Guards are not allowed to shoot when the "lights out" on the blackmarket is activated, and also are restricted from shooting through smoke unless it poses no risk non-rebels.
-	16. Guards can play map mini games as long as it poses no risk of death, chance of baiting, getting stuck or not being able to stay with warden/prisoners.
-	17. Guards cannot judge who is trying to escape a cell solely from the sound of vents breaking, they have to physically see a prisoner trying to escape to call KoS. Guards can use sound cues to request to hunt, as long as they follow previous rules regarding vents.
-	18. Standing on top of a building (e.g. Medic or Armoury) is not classed as camping that area, unless blocking an entrance..
-	19. Once the last prisoner is choosing LR, CT's must run away and prepare to fight. You cannot follow the last remaining T until it clearly states so.
-4. ##Rules for Wardens
-	1. You must follow the guard rules as well as the rules for wardens..
+	2. Favouritism is not allowed in any form, other than giving consideration to Newcomers.
+	3. Guards cannot enter the vents unless a prisoner is seen inside the vents or entering a vent.
+	4. One guard must be with the warden at all times, when there are more than 2 alive Guards.
+	5. Guards cannot open any secrets/vents if it will help a prisoner later on in the round.
+	6. Guards are not allowed to camp any type of vents, secrets, the armoury or any vent entrance/exit (for example, vent cells).
+	7. Guards are not allowed to give prisoners guns at any given point.
+	8. Guards must give prisoners a fair chance to complete the warden's orders. Not doing so is classed as free killing.
+	9. Warning shots must be given as much as possible by holding down "E" and shooting a prisoner for non threatening actions. For example delaying, not facing the right direction, not crouching when told to do so, etc. Warning shots do not have to be given if a prisoner fails a mini-game, running away, inside a vent or hitting a vent or in the armoury.
+	10. Guards should leave the armoury by 9:30 and can only return to the armoury if a prisoner is seen in the armoury or for a very prompt ammo restock.
+	11. When there is only one rebelling prisoner remaining, guards are allowed to be sent by the warden to hunt any vents, secrets and the prison.
+	12. Guards can only attack rebelling prisoners. If you accidentally free shoot someone then you must heal them if requested. If you accidentally free kill someone you must revive them or kill yourself in the armoury.
+	13. The only orders a guard can give when there is a warden is to freeze, drop any weapons and throw any projectiles.
+	14. If you are selected for warden when the warden dies, prisoners to follow the previous wardens commands for 20 seconds after death.
+	15. Guards should always be considerate of prisoners that may not have a microphone.
+	16. Do not bait prisoners. This means coming within knifing distance, one step away from a prisoner, standing within the path of a moving transit of prisoners. If a prisoner knifes you from you baiting, you cannot retaliate.
+	17. Guards are not allowed to shoot when the "lights out" on the blackmarket is activated, and also are restricted from shooting through smoke unless it poses no risk non-rebels.
+	18. Guards can play map mini games as long as it poses no risk of death, chance of baiting, getting stuck or not being able to stay with warden/prisoners.
+	19. Guards cannot judge who is trying to escape a cell solely from the sound of vents breaking, they have to physically see a prisoner trying to escape to call KoS. Guards can use sound cues to hunt, as long as they follow previous rules regarding vents.
+	20. Standing on top of a building (e.g. Medic or Armoury) is not classed as camping that area, unless blocking an entrance..
+	21. Once the last prisoner is choosing LR, CT's must run away and prepare to fight. You cannot follow the last remaining T until it clearly states so.
+	22. CT cannot lie about Warden commands. E.g. Where the marker is, what restrictions are in place or similar...
+5. ##Rules for Wardens
+	1. You must follow the guard rules as well as the rules for wardens.
 	2. In order to be a warden all your instructions must be clear and follow the server definitions (see below).
 	3. Do not give orders to guards which make them bait prisoners.
 	4. As a general rule, a single order (not a trap) should not kill more than 5 prisoners. (map mini-games are not included).
 	5. When playing a controllable map mini-game you cannot have more than 5 deaths unless a time limit on completion is specified (your guards are your responsibility, order them to quit pressing buttons).
 	6. Map mini games can only be played twice per round with a group of prisoners.
 	7. Orders must be clear, if there was spam during an order you need to repeat the order
-	8. Orders must be repeated once per order if requested in chat.(If mods think you're trolling by keep saying repeat in the chat then you'll be punished).
+	8. Orders must be repeated once per order if requested in chat. This does not need to be done for a regular minigame, unless requested by a Newcomer. (If mods think you're trolling you will be punished)
 	9. You cannot order prisoners to play bugged map mini-games.
 	10. As the warden, you cannot restrict the prisoners from knifing. The only exception is when AFK frozen.
 	11. Try and make rounds not repetitive and boring, you're ruining others fun otherwise.
@@ -89,24 +98,24 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	18. When executing a special day you must provide a brief description on how to play the mini-game whilst the countdown happens.
 	19. When revoking a free day, you have to repeat orders given during the prisoners free day.
 	20. Wardens cannot restrict communications on other guards. (it's the staff's job to act on mic/chat/voice spam).
-	21. When placing markers which are not directly visible for the majority of the prisoners you have to specify where you placed it..
+	21. When placing markers which are not directly visible for the majority of the prisoners you have to specify where you placed it.
 	22. When wardens revoke the previous wardens commands (or all your previous orders) you hereby revoke any command / restriction / free time by the previous wardens.
 	23. When wardens revoke previous wardens restrictions (or all your previous restrictions) you revoke all restrictions by any previous warden.
-	24. Wardens cannot lie about commands, for example, they cannot tell a T they can come join the remaining prisoners without dying and then they get killed for doing so.
-	25. Wardens cannot do the simon says game (over voice) more than two times per game/map.
-	26. All mini-games you make prisoners do must be explained in full. Asking the prisoners to crouch if they do not know how to play.
-	27. Do not be a warden which punishes players for minor errors. This is only acceptable for Nazi days (see 6.13).
-	28. Wardens are not allowed to consecutively do Nazi rounds. (E.g. 3-4 nazi rounds in a row).
-	29. You cannot give prisoners orders to do games etc in their cells, the only orders you can give them is to AFK Freeze facing/touching an object in their cell.
-	30. You cannot give prisoners orders in their cells without a 5 second grace period to follow these orders (for example, "all prisoners AFK freeze facing and touching your cell doors if you are not doing this by 9:30 you are KOS" and the time is 9:35 at the end of the sentence).
-	31. Wardens are not allowed to kill non-rebelling prisoners if there are 2 non-rebels left. The only exception would be if a prisoner has to reach the end of a mini-game. (like deathrun where the only way out is the end).
-	32. Wardens must make the two remaining non-rebels to compete for !lr.
-	33. Wardens are allowed to ask the last non-rebel if they would like to bloodhound the remaining rebels.
-	34. You can only turn on friendly fire on in the cells before the doors are opened, however you cannot force prisoners to kill one another, it is voluntary. The only exception to this is “Knife Battle”.
-	35. Please keep "Friendly Fire" to a bare minimum (once or twice per map).
-	36. On Jb_temple_studios_tnn and Jb_turkey Friendly Fire as a whole is not allowed due to the large player count in cells.
-	37. Wardens may not make prisoners play deathball in a small area. The play area must have lots of space to dodge the ball. E.g. The cell medic on jb Peanut would be too small, but the cage outside would be big enough
-5. ##Last Request/Special Day Rules
+	24. Wardens cannot do the simon says game (over voice) more than two times per game/map.
+	25. All mini-games you make prisoners do must be explained in full. Asking the prisoners to crouch if they do not know how to play.
+	26. Do not be a warden which punishes players for minor errors. This is only acceptable for Nazi days (see 6.13).
+	27. Wardens are not allowed to consecutively do Nazi rounds. (E.g. 3-4 nazi rounds in a row).
+	28. You cannot give prisoners orders to do games etc in their cells, the only orders you can give them is to AFK Freeze facing/touching an object in their cell.
+	29. You cannot give prisoners orders in their cells without a 5 second grace period to follow these orders (for example, "all prisoners AFK freeze facing and touching your cell doors if you are not doing this by 9:30 you are KOS" and the time is 9:35 at the end of the sentence).
+	30. Wardens are not allowed to kill non-rebelling prisoners if there are 2 non-rebels left. The only exception would be if a prisoner has to reach the end of a mini-game. (like deathrun where the only way out is the end).
+	31. Wardens must make the two remaining non-rebels to compete for !lr.
+	32. Wardens are allowed to ask the last non-rebel if they would like to bloodhound the remaining rebels.
+	33. You can only turn on friendly fire on in the cells before the doors are opened, however you cannot force prisoners to kill one another, it is voluntary. The only exception to this is “Knife Battle”.
+	34. Please keep "Friendly Fire" to a bare minimum (once or twice per map).
+	35. On Jb_temple_studios_tnn and Jb_turkey Friendly Fire as a whole is not allowed due to the large player count in cells.
+	36. Wardens may not make prisoners play deathball in a small area. The play area must have lots of space to dodge the ball. E.g. The cell medic on jb Peanut would be too small, but the cage outside would be big enough
+	37. Maths or Random Select (Unless during pass or keep minigame) is not to be used to select a prisoner to decide an amount of prisoner to live/die. E.g. Maths to choose 5 Prisoners to die
+6. ##Last Request/Special Day Rules
 	1. During !lr you have the ability to specify your rules and conditions to your LR (with exceptions)
 	2. LRs must be fair in starting points, e.g. in shot 4 shot you cannot select mag-7 and go right up into the Guard's face.
 	3. Both parties of the LR must be ready before you start an LR.
@@ -119,7 +128,7 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	10. Players cannot slay themselves or kill themselves if they do not like an LR game.
 	11. Prisoners can still be classed as rebelling when they have access to LR. Being last alive is not a free pass to intimidate guards.
 	12. Teaming is not allowed in special days except Hunger Games.
-6. ##Useful Definitions
+7. ##Useful Definitions
 	1. Hunting: Actively looking for rebels away from the Warden.
 	2. Freekill: If a guard kills a prisoner who was not rebelling.
 	3. Rebelling: Rebelling is when a prisoner turns breaks any prisoner rules or whenever a prisoner is not following order given by the warden.
@@ -134,7 +143,7 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	12. Restriction commands: A command that restricts prisoners from performing a certain action. E.g. Jumping.
 	13. Nazi Day: A day when Guards can punish for minor errors. Can only be done when Guards are consistently struggling to control prisoners and the Warden has specified prior to opening cells that it will be a nazi day, and explained what it is.
 	14. AFK Freeze: not touching your keyboard or mouse and your character is standing still (not emoting or freelooking)
-7. ##Special Days
+8. ##Special Days
 	1. Bhop Battle - You have to use knife kill everyone, with bunny hop enabled.
 	2. Knife Battle - You have to use a knife to kill everyone. You have 3 lifes.
 	3. Kill confirmed - Kill someone and a chicken will drop, pick it up and they will be unable to respawn, just like the COD gamemode ‘Kill Confirmed’.
@@ -155,7 +164,7 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 		1. The prisoner that is choosing the special day at the end of the round MUST ask a staff member if they are allowed to do a Hide and Seek day. This is due to the fact that staff members are the only ones with perms to heal the Guard team so that they cannot be killed. If a staff member is not online at that given time Hide and Seek will not be able to be chosen as a special day.
 		2. Use of the federal arsenal by the guard team is not permitted as it may create an unfair advantage for the seekers. (E.g The UAV which can be purchased from the federal arsenal will show the location of all members on the enemy team on the minimap, Which when used by a seeker (Member of the guard team) will destroy the point of the special day and ruin the fun of the round for all participants.)
 		3. Snitching by a member of the hiding team is not allowed. This will ruin the round for other members of the hiding team as their position has just been given away. People who break this rule will be punished accordingly.
-8. ##Commands
+9. ##Commands
 
 | Commands | Function |
 | ------------ | ------------- |
