@@ -73,9 +73,9 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	16. Do not bait prisoners. This means coming within knifing distance, one step away from a prisoner, standing within the path of a moving transit of prisoners. If a prisoner knifes you from you baiting, you cannot retaliate.
 	17. Guards are not allowed to shoot when the "lights out" on the blackmarket is activated, and also are restricted from shooting through smoke unless it poses no risk non-rebels.
 	18. Guards cannot judge who is trying to escape a cell solely from the sound of vents breaking, they have to physically see a prisoner trying to escape to call KoS. Guards can use sound cues to hunt, as long as they follow previous rules regarding vents.
-	19. Standing on top of a building (e.g. Medic or Armoury) is not classed as camping that area, unless blocking an entrance..
+	19. Standing on top of a building (e.g. Medic or Armoury) is not classed as camping that area, unless blocking an entrance.
 	20. Once the last prisoner is choosing LR, CT's must run away and prepare to fight, if they ask you not to follow them.
-	21. CT cannot lie about Warden commands. E.g. Where the marker is, what restrictions are in place or similar...
+	21. CT cannot lie about Warden commands. E.g. Where the marker is, what restrictions are in place or similar.
 	22. You must actively hunt the last rebelling T, otherwise, it will be classed as delaying.
 5. ##Rules for Wardens
 	1. You must follow the guard rules as well as the rules for wardens.
