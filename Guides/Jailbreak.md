@@ -12,7 +12,8 @@ When the warden is giving commands, especially ones involving movement, it is im
 
 **Rebellion Strategy**
 
-When it comes to rebelling, it's always best to plan strategically and only make a move when the time is right. So this means drifting off when the Guards are not paying attention, where it be because their backs are turned or they're focused on another rebel, running directly at a Guard is not always the best idea. 
+When it comes to rebelling, it's always best to plan strategically and only make a move when the time is right. So this means drifting off when the Guards are not paying attention, where it be because their backs are turned or they're focused on another rebel, running directly at a Guard is not always the best idea.
+Be careful, as actions such as throwing harmful grandes or shooting a weapon will mark you as a rebeller for 15 seconds.
 
 **Black Market**
 
@@ -27,14 +28,14 @@ Maps are littered with mini-games which the Guards will attempt to place the Pri
 **Gangs**
 
 Gangs are available for VIP players to create. They grant players a multitude of perks should they be a member of a gang which has the perks upgraded. Being a member of a gang also counts your kills and adds them to your total gang kills which can bump you up higher on the leaderboard viewable via !stats. Gang perks are as follows: 
-* Health                 - 10 Levels - Increases HP by 1 unit when on T side. 
-* Damage              - 10 Levels - Increases damage dealt when on T side. 
-* Evasion               - 10 Levels - Increases chance of taking no damage when shot on T side. 
-* Feathers             - 15 Levels - Lowers personal gravity on T side. 
-* Stamina              - 10 Levels - Increases movement speed on T side. 
-* Weapon Drop   - 10 Levels - Increases chance of a CT dropping their primary weapon when stabbed by a T. 
-* Stealing              - 5 Levels  - Increases credits gained from credit boxes when on T side. 
-* Slots                    - 6 Levels  - Increases maximum player count in the gang. 
+* Health        - 20 Levels - Increases HP by 1 unit when on T side. 
+* Damage        - 20 Levels - Increases damage dealt when on T side. 
+* Evasion       - 20 Levels - Increases chance of taking no damage when shot on T side. 
+* Feathers      - 20 Levels - Lowers fall damage on T side. 
+* Stamina       - 20 Levels - Increases movement speed on T side. 
+* Weapon Drop   - 20 Levels - Increases chance of a CT dropping their primary weapon when stabbed by a T. 
+* Stealing      - 20 Levels  - Increases credits gained from credit boxes when on T side. 
+* Slots         - 10 Levels  - Increases maximum player count in the gang. 
 
 **Last Request**
 
@@ -58,7 +59,7 @@ A warning shot will give only 20 damage on the first one, 40 on the next, 60 on 
 
 **Assisting the Warden**
 
-As a Guard, your sole purpose is to assist the Warden in keeping the Prisoners under control and ensuring the round goes as planned, this means that you need to stay with the Warden at all times unless told otherwise or have sufficient reason to ask and be granted the permission to leave the Warden. For example, you could ask the Warden to pursue a Prisoner that you've seen run away. 
+As a Guard, your sole purpose is to assist the Warden in keeping the Prisoners under control and ensuring the round goes as planned, this means that you need to stay with the Warden at all times unless told otherwise or have sufficient reason to ask and be granted the permission to leave the Warden. For example, you could leave to pursue a Prisoner that you've seen run away, given you have announced your action.
 
 **Freedays**
 The term 'Freedays' describes a day in which no Guards can give any commands to the Prisoners, and the sole purpose is for the Prisoners to explore the map, play games and enjoy themselves. The only times a Guard is permitted to kill a Prisoner during a Freeday is if a Prisoner is rushing you or has a gun and show no intention of surrendering said gun.
@@ -66,14 +67,14 @@ The term 'Freedays' describes a day in which no Guards can give any commands to 
 **Squads**
 
 Squads are available for VIP players to create. They grant players a multitude of perks should they be a member of a squad which has the perks upgraded. Being a member of a squad also counts your kills and adds them to your total squad kills which can bump you up higher on the leaderboard viewable via !stats. Squad perks are as follows: 
-* Health                - 10 Levels - Increases HP by 1 unit when on CT side. 
-* Halt                     - 10 Levels - Increases chance of freezing a T when shot. 
-* Ammunition    - 10 Levels - Increases ammunition count by 1 bullet when on CT side. 
-* Stamina             - 10 Levels - Increases movement speed when on CT side. 
-* Stealing             - 10 Levels - Increases credits gained from credit boxes when on CT side. 
-* Fast Hands       - 10 Levels - Decreases weapon reload and switch time when on CT side. 
-* Bleeding           - 10 Levels - Increases chance of a Prisoner taking damage after being shot for a short duration of time. 
-* Slots                   - 6 Levels   - Increases maximum player count in the squad.
+* Health        - 20 Levels - Increases HP by 2 unit when on CT side. 
+* Halt          - 20 Levels - Increases chance of freezing a T when shot. 
+* Ammunition    - 0 Levels - Currently not working 
+* Stamina       - 20 Levels - Increases movement speed when on CT side. 
+* Stealing      - 20 Levels - Increases credits gained from credit boxes when on CT side. 
+* Fast Hands    - 20 Levels - Decreases weapon reload and switch time when on CT side. 
+* Bleeding      - 20 Levels - Inflicts a temporary damage effect on the shot prisoner. Max amount of hits is determined by level.
+* Slots         - 10 Levels  - Increases maximum player count in the squad.
 
 **Menu**
 
@@ -91,11 +92,11 @@ The Federal Arsenal is similar to the Black Market, but used instead to assist g
 **Credit Boxes**
 
 Credit Boxes are dropped upon death of any and all players. These boxes can provide different amounts of credits and different prizes based on gang/squad perks and the tier of the boxes. Upgrading the perk Stealing in gangs for Prisoners and squads for Guards will increase the amount of credits you receive from teal credit boxes. The full list of credit boxes is as follows:
-* <font style="color: rgb(0,255,255)">Common</font>         - 6 Credits (3 for guards) + Stealing Perk Level
+* <font style="color: rgb(0,255,255)">Common</font>         - 10 Credits + Stealing Perk Multiplier
 * <font style="color: rgb(0,255,0)">Uncommon</font>   - Low Gravity or Lucky Sandwich 
-* <font style="color: rgb(255,0,0)">Rare</font>                  - Freeday Pass, Death or a Weapon 
-* <font style="color: rgb(153,0,76)">Ultra Rare</font>      - 100 - 500 Credits 
-* <font style="color: rgb(255,255,0)">Legendary</font> - 500 - 2000 Credits
+* <font style="color: rgb(255,0,0)">Rare</font>                  - Freeday Pass, Death or a Weapon (HealthShot for guards)
+* <font style="color: rgb(153,0,76)">Ultra Rare</font>      - 500 - 1000 Credits 
+* <font style="color: rgb(255,255,0)">Legendary</font> - 1500 - 4000 Credits
 
 **Special Days**
 
@@ -116,10 +117,3 @@ Special Days are days which can only commence when they are chosen in the LR men
 * Bhop Battle - You have to use knife kill everyone, with bunny hop enabled. 
 
 **JAILBREAK PLAYER MODEL SHOWCASE**
-
-|   | <h3>Player Models</h3> |   |
-| - | ---------------------- | - |
-| ![Tyrone](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Tyrone.png?raw=true) <p>Tyrone</p> | ![Jimmy](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Jimmy.png?raw=true) <p>Jimmy</p> | ![Skin Head](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Skin_Head.png?raw=true) <p>Skin Head</p> |
-| ![El Chapo](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/El_Chapo.png?raw=true) <p>El Chapo</p> | ![Trap](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Trap.png?raw=true) <p>Trap</p> | ![Stanley WIlliams](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Stanley_Williams.png?raw=true) <p>Stanley Williams</p> |
-| ![Triad](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Triad.png?raw=true) <p>Triad</p> | ![Nonce](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Nonce.png?raw=true) <p>Nonce</p> | ![Steve Harvey](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Steve_Harvey.png?raw=true) <p>Steve Harvey</p> |
-| ![Screw](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Screw.png?raw=true) <p>Screw</p> | ![Jail Bait](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Jail_Bait.png?raw=true) <p>Jail Bait</p> | ![Ninja Turtle](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Ninja_Turtle.png?raw=true) <p>Ninja Turtle</p> |
