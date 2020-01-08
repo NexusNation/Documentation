@@ -1,6 +1,20 @@
 Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Counter-Terrorists). The guards aim is to kill any rebelling prisoners and order them to play games within the prison in order to get to a final prisoner. The prisoners aim is to either survive by listening to the guards orders or by rebelling and killing the remaining guards. The guards are ran by a warden who is automatically selected at the beginning of each round. They are to govern the prison and gives guards explicit orders which they must follow at all times.
-
-1. ##Global Rules
+1. ##Definitions
+	1. Hunting: Actively looking for rebels away from the Warden.
+	2. Freekill: If a guard kills a prisoner who was not rebelling.
+	3. Rebelling: Rebelling is when a prisoner turns breaks any prisoner rules or whenever a prisoner is not following order given by the warden.
+	4. Walking: Either shift/crouch walking (no jumping).
+	5. Shift: Whatever button you press to walk which is not crouching.
+	6. Baiting: Coming within knifing distance of a prisoner or standing within the path of a moving transit of prisoners. If a prisoner knifes you from you baiting, you cannot retaliate.
+	7. Ghosting: Ghosting is an act of multiple players handing out information to each other which result in an unfair gaming experience.
+	8. Free time: An area restricted "free-day" where prisoners can freely move in (including jumping) and must follow the given restrictions for this free-time. (you cannot leave the area, you do not need to listen to any commands until free-time is revoked).
+	9. Stairs / Ramp: Is the same thing.
+	10. Bloodhound: The last prisoner trying to find the rebels for the guards to kill. There is no baiting during bloodhound and the guards may kill the bloodhound if they are purposely delaying.
+	11. Rushing: Aggressively moving towards a guard who is not baiting.
+	12. Restriction commands: A command that restricts prisoners from performing a certain action. E.g. Jumping.
+	13. Nazi Day: A day when Guards can punish for minor errors. Can only be done when Guards are consistently struggling to control prisoners and the Warden has specified prior to opening cells that it will be a nazi day, and explained what it is.
+	14. AFK Freeze: not touching your keyboard or mouse and your character is standing still (not emoting or freelooking)
+2. ##Global Rules
 	1. The general rules must always be followed.
 	2. Honesty is key, please don't lie to staff about free-kills etc.
 	3. No trying to loophole the rules, use common sense. If you obviously loophole as a T, you can be KOSed.
@@ -29,8 +43,8 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	27. No cheating implies on all commands.
 	28. When being told to crouch, it implies stay crouched.
 	29. When making a gang make sure the name isn't offensive and that you're not advertising within the name.
-	30. You May not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
-2. ##Newcomer Rules
+	30. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
+3. ##Newcomer Rules
 	1. Newcomer -- A Newcomer is a new player (with playtime less than 4 hours for a Prisoner, under 8 hours for a Guard), who’s playermodel is tinted green when not set to a different colour.
 	2. If a Newcomer did not make it to the previous LR Partners stage, at least 1 newcomer must be kept alive until LR Partners stage if possible.
 	3. If a prisoner is given the choice to choose prisoners to live/die, at least ⅓ of the surviving prisoners must be Newcomers.
@@ -128,22 +142,7 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	10. Players cannot slay themselves or kill themselves if they do not like an LR game.
 	11. Prisoners can still be classed as rebelling when they have access to LR. Being last alive is not a free pass to intimidate guards.
 	12. Teaming is not allowed in special days except Hunger Games.
-7. ##Useful Definitions
-	1. Hunting: Actively looking for rebels away from the Warden.
-	2. Freekill: If a guard kills a prisoner who was not rebelling.
-	3. Rebelling: Rebelling is when a prisoner turns breaks any prisoner rules or whenever a prisoner is not following order given by the warden.
-	4. Walking: Either shift/crouch walking (no jumping).
-	5. Shift: Whatever button you press to walk which is not crouching.
-	6. Baiting: Coming within knifing distance of a prisoner or standing within the path of a moving transit of prisoners. If a prisoner knifes you from you baiting, you cannot retaliate.
-	7. Ghosting: Ghosting is an act of multiple players handing out information to each other which result in an unfair gaming experience.
-	8. Free time: An area restricted "free-day" where prisoners can freely move in (including jumping) and must follow the given restrictions for this free-time. (you cannot leave the area, you do not need to listen to any commands until free-time is revoked).
-	9. Stairs / Ramp: Is the same thing.
-	10. Bloodhound: The last prisoner trying to find the rebels for the guards to kill. There is no baiting during bloodhound and the guards may kill the bloodhound if they are purposely delaying.
-	11. Rushing: Aggressively moving towards a guard who is not baiting.
-	12. Restriction commands: A command that restricts prisoners from performing a certain action. E.g. Jumping.
-	13. Nazi Day: A day when Guards can punish for minor errors. Can only be done when Guards are consistently struggling to control prisoners and the Warden has specified prior to opening cells that it will be a nazi day, and explained what it is.
-	14. AFK Freeze: not touching your keyboard or mouse and your character is standing still (not emoting or freelooking)
-8. ##Special Days
+7. ##Special Days
 	1. Bhop Battle - You have to use knife kill everyone, with bunny hop enabled.
 	2. Knife Battle - You have to use a knife to kill everyone. You have 3 lifes.
 	3. Kill confirmed - Kill someone and a chicken will drop, pick it up and they will be unable to respawn, just like the COD gamemode ‘Kill Confirmed’.
@@ -164,7 +163,7 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 		1. The prisoner that is choosing the special day at the end of the round MUST ask a staff member if they are allowed to do a Hide and Seek day. This is due to the fact that staff members are the only ones with perms to heal the Guard team so that they cannot be killed. If a staff member is not online at that given time Hide and Seek will not be able to be chosen as a special day.
 		2. Use of the federal arsenal by the guard team is not permitted as it may create an unfair advantage for the seekers. (E.g The UAV which can be purchased from the federal arsenal will show the location of all members on the enemy team on the minimap, Which when used by a seeker (Member of the guard team) will destroy the point of the special day and ruin the fun of the round for all participants.)
 		3. Snitching by a member of the hiding team is not allowed. This will ruin the round for other members of the hiding team as their position has just been given away. People who break this rule will be punished accordingly.
-9. ##Commands
+8. ##Commands
 
 | Commands | Function |
 | ------------ | ------------- |
