@@ -2,34 +2,16 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 
 1. ##Global Rules
 	1. The general rules must always be followed.
-	2. Honesty is key, please don't lie to staff about free-kills etc.
-	3. No trying to loophole the rules, use common sense. If you obviously loophole as a T, you can be KOSed.
-	4. Do not talk over the warden at any time.
-	5. No team-killing using map triggers unless friendly fire is on.
-	6. Freezing allows players to stand, crouch and jump on the spot unless specified otherwise.
-	7. No one is allowed to give any type of orders in-game except the warden (includes saying/typing in chat "go" etc)
-	8. Your name must be easily readable with no foreign characters. Names with letters such as "𝓝𝓮𝔁𝓾𝓼" are allowed.
-	9. You cannot have any jailbreak related instructions in your name. (all T's, jump rope, freeze).
-	10. The terms "Guards" and "Prisoners" will always refer to the corresponding teams, it cannot be changed, used in a trap, etc.. its an overriding name and should only be used for overriding confusing situations.
-	11. If your microphone is bad do not use it, people might not understand what you’re saying particularly as warden and it will cause complications.
-	12. Unless you are part of the staff you cannot do microphone checks.
-	13. The first round is always a programmed free day. Guards cannot give any orders excluding orders to drop guns, move away froma guard they are getting too close too, etc.
-	14. Orders must be given and doors must be opened before 9:00 otherwise the plugin will automatically grant a free-day. If orders have not been given the Guard that opened the doors will be guard banned.
-	15. The plugins are made for a reason, if the plugin prints its a free day it's a free day. (few exceptions).
-	16. Cell doors should only be opened when the warden gives the command to do so or does it themselves (unless a rebelling T gets them open first).
-	18. After cell doors have been opened, they should not be re-closed by anyone and remain open for the duration of the round.
-	19. Shots must not be fired into a stack of prisoners unless the guard is certain they have a clear shot or if the stack is rebelling.
-	20. Any incidents or rule breaking that happens in one round cannot have an effect on any rounds after. For example, a prisoner got free killed in the round and requested a free day for the next round cannot be permitted.
-	21. Vent cells are to be treated as normal cells if the vent is not accessible (closed off due to not being the random spawn).
-	22. Do not ghost (bait someone's position out) especially if you’re dead.
-	23. You may not interfere with an ongoing LR unless the prisoner rebels.
-	24. Special days are only allowed if requested in the LR menu. (Unless given permission by a staff member).
-	25. Free days are only allowed if requested in the LR menu or won through a mini game.
-	26. No detours and delays implies on all commands. This also applies to Special days too, eg you can't just camp until you're last alive.
-	27. No cheating implies on all commands.
-	28. When being told to crouch, it implies stay crouched.
-	29. When making a gang make sure the name isn't offensive and that you're not advertising within the name.
-	30. You May not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
+	2. Honesty is key, please don't lie to staff about RDM's etc.
+	3. No trying to loophole the rules, use common sense.
+	4. No intentional team-killing.
+	5. No prop blocking in any situation. This inludes but not limited to, blocking enterances/exits and/or blocking a player.
+	6. The only warning you can receive is from the Detective when being asked to be scanned with a taser.
+	7. Your name must be easily readable with no foreign characters. Names with letters such as "𝓝𝓮𝔁𝓾𝓼" are allowed.
+	8. You cannot have any TTT related phrases in your name. (I'm a T, Traitor, Detective).
+	9. If your microphone is bad do not use it, people might not understand what you’re saying particularly as Detective and it will cause complications.
+	10. Do not ghost (bait someone's position out) especially if you’re dead.
+	11. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
 2. ##Newcomer Rules
 	1. Newcomer -- A Newcomer is a new player (with playtime less than 4 hours for a Prisoner, under 8 hours for a Guard), who’s playermodel is tinted green when not set to a different colour.
 	2. If a Newcomer did not make it to the previous LR Partners stage, at least 1 newcomer must be kept alive until LR Partners stage if possible.
