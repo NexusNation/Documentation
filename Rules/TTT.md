@@ -1,4 +1,4 @@
-Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Counter-Terrorists). The guards aim is to kill any rebelling prisoners and order them to play games within the prison in order to get to a final prisoner. The prisoners aim is to either survive by listening to the guards orders or by rebelling and killing the remaining guards. The guards are ran by a warden who is automatically selected at the beginning of each round. They are to govern the prison and gives guards explicit orders which they must follow at all times.
+Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors and Detectives. The Innocents aim is to stay alive whilst helping the Detective discover who the Traitors are. The Detectives have tools in which to aid them with the tracking and elimination of Traitors or simply survive. The Traitors have different methods on how to kill the Innocents and Detectives, if they work together as a team they can successfully win.
 
 1. ##Global Rules
 	1. The general rules must always be followed.
