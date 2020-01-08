@@ -1,6 +1,16 @@
 Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors and Detectives. The Innocents aim is to stay alive whilst helping the Detective discover who the Traitors are. The Detectives have tools in which to aid them with the tracking and elimination of Traitors or simply survive. The Traitors have different methods on how to kill the Innocents and Detectives, if they work together as a team they can successfully win.
 
-1. ##Global Rules
+1. ##Definitions
+	1. KOS -- Kill on sight (someone has comitted a severe treacherous act and should be killed). 
+	2. RDM -- Random Death Match (Killing someone without a valid reason).
+	3. Ghosting -- Revealing information to a player which couldn't of gained themselves.
+	4. Prop Blocking -- Using props to restrict enterences/exits or blocking a player.
+	5. T-baiting -- Comitting a treacherous action as an innocent/detective.
+	6. Cross-teaming -- Assiting Traitors as an Incocent/Detective and vice-versa.
+	7. Camping/Delaying -- Staying in one area for more than 30 seconds.
+	8. LOS -- Line of sight (having line of sight of a treacherous act).
+
+2. ##Global Rules
 	1. The general rules must always be followed.
 	2. Honesty is key, please don't lie to staff about RDM's etc.
 	3. No trying to loophole the rules, use common sense.
@@ -12,13 +22,7 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	9. If your microphone is bad do not use it, people might not understand what you’re saying particularly as Detective and it will cause complications.
 	10. Do not ghost (bait someone's position out) especially if you’re dead.
 	11. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
-2. ##Newcomer Rules
-	1. Newcomer -- A Newcomer is a new player (with playtime less than 4 hours for a Prisoner, under 8 hours for a Guard), who’s playermodel is tinted green when not set to a different colour.
-	2. If a Newcomer did not make it to the previous LR Partners stage, at least 1 newcomer must be kept alive until LR Partners stage if possible.
-	3. If a prisoner is given the choice to choose prisoners to live/die, at least ⅓ of the surviving prisoners must be Newcomers.
-	4. Unless fully rebelling, Newcomers must always be warning shot instead of being KOS.
-	5. Be considerate of newcomer Guards. Do not Try and catch them on every little detail, but do feel free to inform them of any major mistakes they make.
-	6. Do not excessively target newcomer guards as an easy rebel. They are there to learn and you constantly targeting them will discourage them from learning how to properly be a guard.
+
 3. ##Rules for Prisoners
 	1. All prisoners are considered rebels if they are seen to be trying to escape or rush/attack a guard. (with exceptions)
 	2. Being in the armory, knifing or entering vents, shortcuts and having a gun unholstered (in hand) instantly makes prisoners a rebel unless the warden has given permission to do so.
