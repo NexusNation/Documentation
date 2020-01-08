@@ -1,14 +1,14 @@
 Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors and Detectives. The Innocents aim is to stay alive whilst helping the Detective discover who the Traitors are. The Detectives have tools in which to aid them with the tracking and elimination of Traitors or simply survive. The Traitors have different methods on how to kill the Innocents and Detectives, if they work together as a team they can successfully win.
 
 1. ##Definitions
-	1. KOS -- Kill on sight (someone has comitted a severe treacherous act and should be killed). 
-	2. RDM -- Random Death Match (Killing someone without a valid reason).
-	3. Ghosting -- Revealing information to a player which couldn't of gained themselves.
-	4. Prop Blocking -- Using props to restrict enterences/exits or blocking a player.
-	5. T-baiting -- Comitting a treacherous action as an innocent/detective.
-	6. Cross-teaming -- Assiting Traitors as an Incocent/Detective and vice-versa.
-	7. Camping/Delaying -- Staying in one area for more than 30 seconds.
-	8. LOS -- Line of sight (having line of sight of a treacherous act).
+	1. KOS: Kill on sight (someone has comitted a severe treacherous act and should be killed). 
+	2. RDM: Random Death Match (Killing someone without a valid reason).
+	3. Ghosting: Revealing information to a player which couldn't of gained themselves.
+	4. Prop Blocking: Using props to restrict enterences/exits or blocking a player.
+	5. T-baiting: Comitting a treacherous action as an innocent/detective.
+	6. Cross-teaming: Assiting Traitors as an Incocent/Detective and vice-versa.
+	7. Camping/Delaying: Staying in one area for more than 30 seconds.
+	8. LOS: Line of sight (having line of sight of a treacherous act).
 
 2. ##Global Rules
 	1. The general rules must always be followed.
