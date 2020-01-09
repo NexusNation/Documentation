@@ -10,9 +10,6 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	7. Camping/Delaying: Staying in one area for more than 30 seconds.
 	8. LOS: Line of sight (having line of sight of a Traitorous act).
 
-
-
-
 2. ##Global Rules
 	1. The general rules must always be followed.
 	2. Honesty is key, please don't lie to staff about RDM's etc.
@@ -30,9 +27,6 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	14. Do not throw dead bodies off the map or in inaccessible areas (players should be able to scan them).
 	14. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
 
-
-
-
 3. ##Innocent/Detective Rules
 	1. Do not kill or damage players if they weren't called KOS unless in self-defence.
 	2. As a Detective, you must give 3 T-bait warnings before calling KOS.
@@ -46,19 +40,13 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	10. Being shot at or shooting a Traitor does not make you proven.
 	11. Someone is only proven to you as an invidual if you have witnessed it or it has been called by the Detective.
 	12. Innocent tasers have to be used twice on a player to prove them.
-	
-	
-	
-	
+
 4. ##Traitor Rules
 	1. Do not intentionally reveal a fellow Traitor in any way possible.
-	2. You cannot call the initual KOS of a fellow Traitor.
+	2. You cannot call the inital KOS of a fellow Traitor.
 	3. You may damage/kill a fellow Traitor if you have their approval.
 	4. Do not camp Traitor rooms.
-	
-	
-	
-	
+
 5. ##Suspicious Actions
 	1. Consistently watching, aiming at and stalking players.
 	2. Having a Traitor only weapon equipped.
@@ -66,10 +54,7 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	4. Standing close by and being the only one holding a weapon that has been used to kill/damage an Innocent.
 	5. Moving a dead Traitor's body (this can be seen as an attempt to revive the dead body).
 	6. Moving or carrying explosive barrels towards other players.
-	
-	
-	
-	
+
 6. ##Traitorous Actions
 	1. Refusing to be scanned by the Detective (after all three warnings have been given).
 	2. Being scanned and proven to be a Traitor.
