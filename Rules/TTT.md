@@ -43,7 +43,7 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 
 4. ##Traitor Rules
 	1. Do not intentionally reveal a fellow Traitor in any way possible.
-	2. You cannot call the inital KOS of a fellow Traitor.
+	2. You cannot call the initial KOS of a fellow Traitor.
 	3. You may damage/kill a fellow Traitor if you have their approval.
 	4. Do not camp Traitor rooms.
 
