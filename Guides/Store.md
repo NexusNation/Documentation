@@ -54,8 +54,8 @@ This isn't the full list of items available to Non-VIP Members as there are just
 |   | <h3>Pets</h3> |   |
 | - | ------------- | - |
 | ![Zombie Chicken](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/zombie_chicken.png?raw=true) <p>Zombie Chicken</p> | ![Seagull](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull.png?raw=true) <p>Seagull</p> | ![Seagull Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull_flying.png?raw=true) <p>Seagull Flying</p> |
-![Pigeon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon.png?raw=true) <p>Pigeon</p> | ![Pigeon Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon_flying.png?raw=true) <p>Pigeon Flying</p> | ![Crow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow.png?raw=true) <p>Crow</p> |
-![Crow Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow_flying.png?raw=true) <p>Crow Flying</p> |
+| ![Pigeon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon.png?raw=true) <p>Pigeon</p> | ![Pigeon Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon_flying.png?raw=true) <p>Pigeon Flying</p> | ![Crow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow.png?raw=true) <p>Crow</p> |
+| ![Crow Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow_flying.png?raw=true) <p>Crow Flying</p> |
 
 ----------
 
