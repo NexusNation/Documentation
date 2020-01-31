@@ -19,7 +19,7 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 |   | <h3>Innocents Noteable Items</h3> |   |
 | - | ------------- | - |
-| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p><br><p>The taser can be used to identify the role of players. The player will glow green if they are innocent and red if they are a traitor</p> | ![Martyrdom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martyrdom.png?raw=true) <p>Martydom</p><br><p>The martydom item drops a nade when you are killed, injuring anyone around</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p> |
+| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p><br><p>The taser can be used to identify the role of players. The player will glow green if they are innocent and red if they are a traitor</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p><br><p>The martydom item drops a nade when you are killed, injuring anyone around</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p> |
 
 ----------
 
