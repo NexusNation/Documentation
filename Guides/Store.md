@@ -45,7 +45,7 @@ This isn't the full list of items available to Non-VIP Members as there are just
 
 |   | <h3>Hats</h3> |   |
 | - | ------------- | - |
-| ![Afro](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/afro.png?raw=true) <p>Blue</p> | ![Baseball Cap](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/baseball_cap.png?raw=true) <p>Baseball Cap</p> | ![KFC Bucket](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/kfc_bucket.png?raw=true) <p>KFC Bucket</p> |
+| ![Afro](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/afro.png?raw=true) <p>Afro</p> | ![Baseball Cap](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/baseball_cap.png?raw=true) <p>Baseball Cap</p> | ![KFC Bucket](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/kfc_bucket.png?raw=true) <p>KFC Bucket</p> |
 | ![Coffee Mug](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/coffee_mug.png?raw=true) <p>Coffee Mug</p> | ![Mudkip](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/mudkip.png?raw=true) <p>Mudkip</p> | ![Suess Hat](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/suess_hat.png?raw=true) <p>Suess Hat</p> |
 | ![V Mask](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/v_mask.png?raw=true) <p>V Mask</p> | ![Viking Helmet](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/viking_helmet.png?raw=true) <p>Viking Helmet</p> | ![Pedobear](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/hats/pedobear.png?raw=true) <p>Pedobear</p> |
 
@@ -53,7 +53,9 @@ This isn't the full list of items available to Non-VIP Members as there are just
 
 |   |   |   | <h3>Pets</h3> |   |   |   |
 | - | - | - | ------------- | - | - | - |
-| ![Zombie Chicken](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/zombie_chicken.png?raw=true) <p>Zombie Chicken</p> | ![Seagull](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull.png?raw=true) <p>Seagull</p> | ![Seagull Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull_flying.png?raw=true) <p>Seagull Flying</p> | ![Pigeon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon.png?raw=true) <p>Pigeon</p> | ![Pigeon Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon_flying.png?raw=true) <p>Pigeon Flying</p> | ![Crow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow.png?raw=true) <p>Crow</p> | ![Crow Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow_flying.png?raw=true) <p>Crow Flying</p> |
+| ![Zombie Chicken](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/zombie_chicken.png?raw=true) <p>Zombie Chicken</p> | ![Seagull](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull.png?raw=true) <p>Seagull</p> | ![Seagull Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/seagull_flying.png?raw=true) <p>Seagull Flying</p> |
+![Pigeon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon.png?raw=true) <p>Pigeon</p> | ![Pigeon Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/pigeon_flying.png?raw=true) <p>Pigeon Flying</p> | ![Crow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow.png?raw=true) <p>Crow</p> |
+![Crow Flying](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/pets/crow_flying.png?raw=true) <p>Crow Flying</p> |
 
 ----------
 
@@ -61,7 +63,7 @@ This isn't the full list of items available to Non-VIP Members as there are just
 | - | ------------- | - |
 | ![Baseball Bat](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/baseball_bat.png?raw=true) <p>Baseball Bat</p> | ![Volcano Fragment](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/lava_fragment.png?raw=true) <p>Volcano Fragment</p> | ![Butchers Knife](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/butchers_knife.png?raw=true) <p>Butchers Knife</p> |
 | ![Float Noodle](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/float_noodle.png?raw=true) <p>Float Noodle</p> | ![Toothbrush Shank](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/toothbrush.png?raw=true) <p>Toothbrush Shank</p> | ![Screwdriver](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/screwdriver.png?raw=true) <p>Screwdriver</p> |
-| ![Minecraft Pick](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/minecraft_pick.png?raw=true) <p>Minecraft Pick</p> |
+| ![Minecraft Pickaxe](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/minecraft_pick.png?raw=true) <p>Minecraft Pickaxe</p> |
 
 ----------
 
