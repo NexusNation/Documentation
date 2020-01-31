@@ -9,17 +9,17 @@ Time runs out | **Innocents Win**
 
 The ‘All Innocents Eliminated’ outcome is where there is at least one Traitor left and no Innocents/Detectives alive. The ‘All Traitors Eliminated’ outcome is when at least one Innocent/Detective is left and no Traitors are alive. The ‘Time runs out’ outcome is when there are still Traitors and Innocents left alive. 
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Playing as an Innocent</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: rgb(0,255,0)">Playing as an Innocent</u>
 
 While playing TTT, you’ll be innocent most of the time, so it’s a good idea to familiarise yourself with the ins and outs of the role. The main objectives of the innocents is to assist the detective in finding the traitors, stay alive and not make themselves suspicious.
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Playing as a Detective</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: rgb(0,255,255)">Playing as a Detective</u>
 
 As the Detective, your main goal is to identify and eliminate all Traitors. Detectives are equipped with unique tools to help them find who the Traitors are. This includes the taser (which is used to identify a player’s role) and the body scanner (identifies the killer of a body). There are also extra items that only the Detective can buy. Notably, heavy armour and the health station.
 
 Detectives can use the process of elimination to identify Traitors. Once you reveal a player to be an ‘Innocent’ by scanning them with a taser, you can call the player ‘proven’ which will make the whole server aware that they are not a Traitor. If all players are proven and all dead bodies have been ID’d, you are allowed to KOS a Traitor.  
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Playing as a Traitor</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: rgb(255,0,0)">Playing as a Traitor</u>
 
 If you get selected as a Traitor, your main goal will be to eliminate all Innocents and Detectives before the time runs out. You will be able to purchase exclusive Traitor items to aid you in this task. Items such as missiles, trip mines and turrets can be bought to kill Innocents and Detectives. You can also talk in the Traitor chat via chat and voice! Hold down ‘R’ while speaking to only communicate with your Traitor buddies. 
 
