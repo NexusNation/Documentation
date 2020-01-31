@@ -19,7 +19,7 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 |   | <h3>Items</h3> |   |
 | - | -------------- | - |
-| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p><p>The taser can be used to identify the role of players. The player will glow green if they are innocent and red if they are a traitor</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p><p>The exojump item gives you a competitive advantage when it comes to movement, This item will allow you to jump higher and further.</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p><p>The martydom item will drop a nade if you die, inguring anyone around.</p> |
+| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p><p>The taser can be used to identify</p><p>the role of players. The player will glow green</p><p>if they are innocent and</p><p>red if they are a traitor</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p><p>The exojump item gives you a</p><p>competitive advantage when it comes to</p><p>movement, This item will allow you to</p><p>jump higher and further.</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p><p>The martydom item will drop a nade if you die, inguring anyone around.</p> |
 
 ----------
 
