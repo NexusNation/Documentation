@@ -19,7 +19,7 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 |   | <h3>Items</h3> |   |
 | - | -------------- | - |
-| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p><p>The taser can be used to identify<br>the role of players.</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p><p>The exojump item gives you<br>a competitive advantage when it comes to<br>movement.</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p><p>The martydom item will<br>drop a nade if you die,<br>inguring anyone around.</p> |
+| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p><p>The taser can be used to identify<br>the role of players.</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p><p>The exojump item gives you<br>a competitive advantage when<br>it comes to movement.</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p><p>The martydom item will<br>drop a nade if you die,<br>inguring anyone around.</p> |
 
 ----------
 
