@@ -13,7 +13,7 @@ The ‘All Innocents Eliminated’ outcome is where there is at least one Traito
 
 While playing TTT, you’ll be innocent most of the time, so it’s a good idea to familiarise yourself with the ins and outs of the role. The main objectives of the innocents is to assist the detective in finding the traitors, stay alive and not make themselves suspicious.
 
-**Innocents shop**
+**In-game shop**
 
 If you type “!menu” in chat during a round, a buy-menu will open where you can buy helpful items such as tasers, armour, health shot’s etc. these items can be bought for tokens that is earned during the map and reset when the map changes, so it is encouraged to spend them. These items will help reach the end goal of the role you have been assigned at the start of the round.
 
@@ -21,7 +21,8 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 |   | <h3>Items</h3> |   |
 | - | -------------- | - |
-| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | ![crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> 
+| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | 
+| ![Crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> |
 
 ----------
 
