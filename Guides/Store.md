@@ -57,6 +57,15 @@ This isn't the full list of items available to Non-VIP Members as there are just
 
 ----------
 
+|   | <h3>Knives</h3> |   |
+| - | ------------- | - |
+| ![Baseball Bat](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/baseball_bat.png?raw=true) <p>Baseball Bat</p> | ![Volcano Fragment](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/lava_fragment.png?raw=true) <p>Volcano Fragment</p> | ![Butchers Knife](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/butchers_knife.png?raw=true) <p>Butchers Knife</p> |
+| ![Float Noodle](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/float_noodle.png?raw=true) <p>Float Noodle</p> | ![Toothbrush Shank](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/toothbrush.png?raw=true) <p>Toothbrush Shank</p> | ![Screwdriver](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/screwdriver.png?raw=true) <p>Screwdriver</p> |
+| ![Minecraft Pick](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/knives/minecraft_pick.png?raw=true) <p>Minecraft Pick</p> |
+
+----------
+
+
 ### Extra Information
 
 This isn't the full list of items available to VIP's as there are just to many to list! These are the most asked about/used items in the store but we also have VIP Trails, Tracers, Masks and many more items to come!
