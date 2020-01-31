@@ -17,10 +17,18 @@ While playing TTT, you’ll be innocent most of the time, so it’s a good idea 
 
 If you type “!menu” in chat during a round, a buy-menu will open where you can buy helpful items such as tasers, armour, health shot’s etc. these items can be bought for tokens that is earned during the map and reset when the map changes, so it is encouraged to spend them. These items will help reach the end goal of the role you have been assigned at the start of the round.
 
+----------
+
 |   | <h3>Items</h3> |   |
 | - | -------------- | - |
-| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p><p>The taser can be used to identify<br>the role of players.</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p><p>The exojump item gives you<br>a competitive advantage when<br>it comes to movement.</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p><p>The martydom item will<br>drop a nade if you die,<br>inguring anyone around.</p> |
+| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | ![crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> 
 
 ----------
 
+**Taser** - This can be used to identify players. When scanned, the player will glow either green or red. If the player glows green they are innocent. However, if they glow red then they are a traitor and should be killed.
 
+**Exojump** - This item will give you a competitive advantage when it comes to movement. It will allow you to jump faster and further when moving around.
+
+**Martydom** - Purchasing this item from the store will make a nade drop to the ground upon your death, injuring anyone within the blast radius.
+
+**Crossbow** - This is a silent weapon that can only be purchased by traitors. Shooting someone with this weapon will cause a small amount of initial damage (not enough to kill a healthy player) and will then cause them to bleed out for an additional for an additional 65hp over a short time period.
