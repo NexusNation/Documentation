@@ -33,23 +33,28 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 |   | <h3>Noteable Items</h3> |   |
 | - | ----------------------- | - |
-| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | 
-| ![Crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> | ![Missile](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/missile.png?raw=true) <p>Missile/s</p> | ![Drone Turret](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/dronegun.png?raw=true) <p>Drone Turret</p> 
+| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/medshor.png?raw=true) <p>Heal/Hurt shot</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | 
+| ![Crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> | ![Missile](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/missile.png?raw=true) <p>Missile/s</p> | ![Drone Turret](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/dronegun.png?raw=true) <p>Drone Turret</p> |
+| ![Silent AWP](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/sawp.png?raw=true) <p>Silent AWP</p> | ![Poison Smoke](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/poisonsmoke.png?raw=true) <p>Poison Smoke</p> | ![C4](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/c4.png?raw=true) <p>C4</p> 
 
 ----------
 
 **Taser** - This can be used to identify players. When scanned, the player will glow either green or red. If the player glows green they are innocent. However, if they glow red then they are a traitor and should be killed.
 
+**Heal shot** - When used by a player, this item will heal the player, increasing their health by 50hp.
+
+**Hurt shot** - This item can be bought by a traitor and will be instantly dropped on the floor. When picked up and used by another player, it will begin to damage them until they have lost a total of 50hp.<font style="color: rgb(255,0,0)"> - Traitor only</font>
+
 **Exojump** - This item will give you a competitive advantage when it comes to movement. It will allow you to jump faster and further when moving around.
 
 **Martydom** - Purchasing this item from the store will make a nade drop to the ground upon your death, injuring anyone within the blast radius.
 
-**Crossbow** - This is a silent weapon that can only be purchased by traitors. Shooting someone with this weapon will cause a small amount of initial damage (not enough to kill a healthy player) and will then cause them to bleed out for an additional for an additional 65hp over a short time period.<font style="color: rgb(255,0,0)">- Traitor only</font>
+**Crossbow** - This is a silent weapon that can only be purchased by traitors. Shooting someone with this weapon will cause a small amount of initial damage (not enough to kill a healthy player) and will then cause them to bleed out for an additional for an additional 65hp over a short time period.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
-**Missile** - This item will allow the user to throw a missile that will head the direction it was thrown continuously before exploding on contact with another object/surface.<font style="color: rgb(255,0,0)">- Traitor only</font>
+**Missile** - This item will allow the user to throw a missile that will head the direction it was thrown continuously before exploding on contact with another object/surface.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
-**Following Missile** - This item will allow the user to throw a missile that will follow the first player it locks on to. It will then explode when it makes contact with said player or an object/surface close to them.<font style="color: rgb(255,0,0)">- Traitor only</font>
+**Following Missile** - This item will allow the user to throw a missile that will follow the first player it locks on to. It will then explode when it makes contact with said player or an object/surface close to them.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
-**Missile** - This item will allow the user to throw a missile that they will then be able to control the direction of using their mouse. This allows the player to control exactly where they want the missile to go and who they want it to kill<font style="color: rgb(255,0,0)">- Traitor only</font>
+**Missile** - This item will allow the user to throw a missile that they will then be able to control the direction of using their mouse. This allows the player to control exactly where they want the missile to go and who they want it to kill<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
-**Drone turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)">- Traitor only</font>
+**Drone turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)"> - Traitor only</font>
