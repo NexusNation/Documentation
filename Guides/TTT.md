@@ -25,7 +25,7 @@ If you get selected as a Traitor, your main goal will be to eliminate all Innoce
 
 To succeed as a Traitor, you will have to use a combination of stealth and deception. Blend in with the Innocents and build their trust. Be selective of your targets, you don’t want to be seen killing anyone and risk being revealed as a Traitor. If you’re not the stealthy type you can always go in guns blazing. Just be careful not to get caught!
 
-**In-game shop**
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">In-game shop</u>
 
 If you type “!menu” in chat during a round, a buy-menu will open where you can buy helpful items such as tasers, armour, health shot’s etc. these items can be bought for tokens that is earned during the map and reset when the map changes, so it is encouraged to spend them. These items will help reach the end goal of the role you have been assigned at the start of the round.
 
