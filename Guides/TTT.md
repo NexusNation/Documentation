@@ -60,7 +60,7 @@ Detective damaging Detective: <font style="color: #b50024">-1</font></p>
 
 ----------
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">In-game shop</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">In-Game Shop</u>
 
 If you type “!menu” in chat during a round, a buy-menu will open where you can buy helpful items such as tasers, armour, health shot’s etc. these items can be bought for tokens that is earned during the map and reset when the map changes, so it is encouraged to spend them. These items will help reach the end goal of the role you have been assigned at the start of the round.
 
@@ -76,9 +76,9 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 **Taser** - This can be used to identify players. When scanned, the player will glow either green or red. If the player glows green they are innocent. However, if they glow red then they are a traitor and should be killed.
 
-**Heal shot** - When used by a player, this item will heal the player, increasing their health by 50hp.
+**Heal Shot** - When used by a player, this item will heal the player, increasing their health by 50hp.
 
-**Hurt shot** - This item can be bought by a traitor and will be instantly dropped on the floor. When picked up and used by another player, it will begin to damage them until they have lost a total of 50hp.<font style="color: rgb(255,0,0)"> - Traitor only</font>
+**Hurt Shot** - This item can be bought by a traitor and will be instantly dropped on the floor. When picked up and used by another player, it will begin to damage them until they have lost a total of 50hp.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 **Exojump** - This item will give you a competitive advantage when it comes to movement. It will allow you to jump faster and further when moving around.
 
@@ -92,7 +92,7 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 **Controlling Missile** - This item will allow the user to throw a missile that they will then be able to control the direction of using their mouse. This allows the player to control exactly where they want the missile to go and who they want it to kill<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
-**Drone turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)"> - Traitor only</font>
+**Drone Turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 **Poison Smoke** - This item can be purchased from the store by a traitor. Once thrown, any players in the smokes radius will begin to take damage. This damage will continue until the smoke dissipates.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
