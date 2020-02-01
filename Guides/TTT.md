@@ -25,6 +25,35 @@ If you get selected as a Traitor, your main goal will be to eliminate all Innoce
 
 To succeed as a Traitor, you will have to use a combination of stealth and deception. Blend in with the Innocents and build their trust. Be selective of your targets, you don’t want to be seen killing anyone and risk being revealed as a Traitor. If you’re not the stealthy type you can always go in guns blazing. Just be careful not to get caught!
 
+----------
+
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Karma</u>
+
+Every player has a Karma value. Karma ranges from 150 (highest) to 75 (lowest and auto-banned from the server). It starts at 100, and goes up if you kill a Traitor as an Innocent/Detective, and down if you teamkill (e.g. kill a fellow Innocent while being Innocent). 
+
+As previously stated, your Karma can go up and down depending on your actions throughout the course of a round. Here are the points that you can earn/lose for certain actions:
+
+<p style="text-align:center;">Innocent killing Innocent: <font style="color: #b50024">-5</font>
+Innocent killing Traitor: <font style="color: #0fb500">+3</font>
+Innocent killing Detective: <font style="color: #b50024">-10</font></p>
+<p style="text-align:center;">Innocent damaging Innocent: 0
+Innocent damaging Traitor: <font style="color: #0fb500">+1</font>
+Innocent damaging Detective: 0</p>
+<p style="text-align:center;">Traitor killing Innocent: 0
+Traitor killing Traitor: <font style="color: #b50024">-10</font>
+Traitor killing Detective: <font style="color: #0fb500">+1</font></p>
+<p style="text-align:center;">Traitor damaging Innocent: 0
+Traitor damaging Traitor: 0
+Traitor damaging Detective: 0</p>
+<p style="text-align:center;">Detective killing Innocent: <font style="color: #b50024">-5</font>
+Detective killing Traitor: <font style="color: #0fb500">+3</font>
+Detective killing Detective: <font style="color: #b50024">-15</font></p>
+<p style="text-align:center;">Detective damaging Innocent: 0
+Detective damaging Traitor: <font style="color: #0fb500">+1</font>
+Detective damaging Detective: <font style="color: #b50024">-1</font></p>
+
+----------
+
 ##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">In-game shop</u>
 
 If you type “!menu” in chat during a round, a buy-menu will open where you can buy helpful items such as tasers, armour, health shot’s etc. these items can be bought for tokens that is earned during the map and reset when the map changes, so it is encouraged to spend them. These items will help reach the end goal of the role you have been assigned at the start of the round.
@@ -62,32 +91,3 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 **Poison Smoke** - This item can be purchased from the store by a traitor. Once thrown, any players in the smokes radius will begin to take damage. This damage will continue until the smoke dissipates.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 ----------
-
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Karma</u>
-
-Every player has a Karma value. Karma ranges from 150 (highest) to 75 (lowest and auto-banned from the server). It starts at 100, and goes up if you kill a Traitor as an Innocent/Detective, and down if you teamkill (e.g. kill a fellow Innocent while being Innocent). 
-
-As previously stated, your Karma can go up and down depending on your actions throughout the course of a round. Here are the points that you can earn/lose for certain actions:
-
-<p style="text-align:center;">Innocent killing Innocent: <font style="color: #b50024">-5</font>
-Innocent killing Traitor: <font style="color: #0fb500">+3</font>
-Innocent killing Detective: <font style="color: #b50024">-10</font></p>
-<p style="text-align:center;">Innocent damaging Innocent: 0
-Innocent damaging Traitor: <font style="color: #0fb500">+1</font>
-Innocent damaging Detective: 0</p>
-<p style="text-align:center;">Traitor killing Innocent: 0
-Traitor killing Traitor: <font style="color: #b50024">-10</font>
-Traitor killing Detective: <font style="color: #0fb500">+1</font></p>
-<p style="text-align:center;">Traitor damaging Innocent: 0
-Traitor damaging Traitor: 0
-Traitor damaging Detective: 0</p>
-<p style="text-align:center;">Detective killing Innocent: <font style="color: #b50024">-5</font>
-Detective killing Traitor: <font style="color: #0fb500">+3</font>
-Detective killing Detective: <font style="color: #b50024">-15</font></p>
-<p style="text-align:center;">Detective damaging Innocent: 0
-Detective damaging Traitor: <font style="color: #0fb500">+1</font>
-Detective damaging Detective: <font style="color: #b50024">-1</font></p>
-
-----------
-
-<a href="steam://connect/185.38.148.140:27075"><font style="color: #b50024">Connect to TTT</font></a>
