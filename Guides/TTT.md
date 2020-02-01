@@ -63,7 +63,7 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 ----------
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: #3700ad">Karma</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Karma</u>
 
 Every player has a Karma value. Karma ranges from 150 (highest) to 75 (lowest and auto-banned from the server). It starts at 100, and goes up if you kill a Traitor as an Innocent/Detective, and down if you teamkill (e.g. kill a fellow Innocent while being Innocent). 
 
