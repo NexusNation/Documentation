@@ -71,24 +71,23 @@ As previously stated, your Karma can go up and down depending on your actions th
 
 <p style="text-align:center;">Innocent killing Innocent: <font style="color: #b50024">-5</font>
 Innocent killing Traitor: <font style="color: #0fb500">+3</font>
-Innocent killing Detective: <font style="color: #b50024">-10</font>
-
-Innocent damaging Innocent: 0
+Innocent killing Detective: <font style="color: #b50024">-10</font></p>
+<p style="text-align:center;">Innocent damaging Innocent: 0
 Innocent damaging Traitor: <font style="color: #0fb500">+1</font>
-Innocent damaging Detective: 0
-
-Traitor killing Innocent: 0
+Innocent damaging Detective: 0</p>
+<p style="text-align:center;">Traitor killing Innocent: 0
 Traitor killing Traitor: <font style="color: #b50024">-10</font>
-Traitor killing Detective: <font style="color: #0fb500">+1</font>
-
-Traitor damaging Innocent: 0
+Traitor killing Detective: <font style="color: #0fb500">+1</font></p>
+<p style="text-align:center;">Traitor damaging Innocent: 0
 Traitor damaging Traitor: 0
-Traitor damaging Detective: 0
-
-Detective killing Innocent: <font style="color: #b50024">-5</font>
+Traitor damaging Detective: 0</p>
+<p style="text-align:center;">Detective killing Innocent: <font style="color: #b50024">-5</font>
 Detective killing Traitor: <font style="color: #0fb500">+3</font>
-Detective killing Detective: <font style="color: #b50024">-15</font>
-
-Detective damaging Innocent: 0
+Detective killing Detective: <font style="color: #b50024">-15</font></p>
+<p style="text-align:center;">Detective damaging Innocent: 0
 Detective damaging Traitor: <font style="color: #0fb500">+1</font>
 Detective damaging Detective: <font style="color: #b50024">-1</font></p>
+
+----------
+
+<a href="steam://connect/185.38.148.140:27075"><font style="color: #b50024">Connect to TTT</font></a>
