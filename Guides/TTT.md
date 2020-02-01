@@ -55,6 +55,8 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 **Following Missile** - This item will allow the user to throw a missile that will follow the first player it locks on to. It will then explode when it makes contact with said player or an object/surface close to them.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
-**Missile** - This item will allow the user to throw a missile that they will then be able to control the direction of using their mouse. This allows the player to control exactly where they want the missile to go and who they want it to kill<font style="color: rgb(255,0,0)"> - Traitor only</font>
+**Controlling Missile** - This item will allow the user to throw a missile that they will then be able to control the direction of using their mouse. This allows the player to control exactly where they want the missile to go and who they want it to kill<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 **Drone turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)"> - Traitor only</font>
+
+**Poison Smoke** - This item can be purchased from the store by a traitor. Once thrown, any players in the smokes radius will begin to take damage. This damage will continue until the smoke dissipates.<font style="color: rgb(255,0,0)"> - Traitor only</font>
