@@ -124,5 +124,4 @@ Special Days are days which can only commence when they are chosen in the LR men
 | ![El Chapo](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/El_Chapo.png?raw=true) <p>El Chapo</p> | ![Trap](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Trap.png?raw=true) <p>Trap</p> | ![Stanley WIlliams](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/prisoners/Stanley_Williams.png?raw=true) <p>Stanley Williams</p> |
 | ![Screw](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Screw.png?raw=true) <p>Screw</p> | ![Jail Bait](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Jail_Bait.png?raw=true) <p>Jail Bait</p> | ![Ninja Turtle](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/guards/Ninja_Turtle.png?raw=true) <p>Ninja Turtle</p> |
 
-----------
 
