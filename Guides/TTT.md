@@ -33,7 +33,7 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 |   | <h3>Noteable Items</h3> |   |
 | - | ----------------------- | - |
-| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/medshor.png?raw=true) <p>Heal/Hurt shot</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | 
+| ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Medshot](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/medshot.png?raw=true) <p>Heal/Hurt shot</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | 
 | ![Crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> | ![Missile](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/missile.png?raw=true) <p>Missile/s</p> | ![Drone Turret](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/dronegun.png?raw=true) <p>Drone Turret</p> |
 | ![Silent AWP](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/sawp.png?raw=true) <p>Silent AWP</p> | ![Poison Smoke](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/poisonsmoke.png?raw=true) <p>Poison Smoke</p> | ![C4](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/c4.png?raw=true) <p>C4</p> 
 
