@@ -34,7 +34,7 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 |   | <h3>Noteable Items</h3> |   |
 | - | ----------------------- | - |
 | ![Taser](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/taser.png?raw=true) <p>Taser</p> | ![Exojump](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/exojump.png?raw=true) <p>Exojump</p> | ![Martydom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/martydom.png?raw=true) <p>Martydom</p> | 
-| ![Crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> | ![Missile](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Missile/s</p> | ![Drone Turret](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Drone Turret</p> 
+| ![Crossbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/crossbow.png?raw=true) <p>Crossbow</p> | ![Missile](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/missile.png?raw=true) <p>Missile/s</p> | ![Drone Turret](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/dronegun.png?raw=true) <p>Drone Turret</p> 
 
 ----------
 
@@ -52,4 +52,4 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 **Missile** - This item will allow the user to throw a missile that they will then be able to control the direction of using their mouse. This allows the player to control exactly where they want the missile to go and who they want it to kill<font style="color: rgb(255,0,0)">- Traitor only</font>
 
-**Drone turret** - .<font style="color: rgb(255,0,0)">- Traitor only</font>
+**Drone turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)">- Traitor only</font>
