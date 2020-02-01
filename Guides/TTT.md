@@ -27,6 +27,12 @@ To succeed as a Traitor, you will have to use a combination of stealth and decep
 
 ----------
 
+|   | <h3>Role Indicators</h3> |   |
+| - | ------------------------ | - |
+| ![Traitor](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/roles/traitor.png?raw=true) <p>Traitor</p> | ![Innocent](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/roles/innocent.png?raw=true) <p>Innocent</p> | ![Detective](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/ttt/roles/detective.png?raw=true) <p>Detective</p> 
+
+----------
+
 ##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Karma</u>
 
 Every player has a Karma value. Karma ranges from 150 (highest) to 75 (lowest and auto-banned from the server). It starts at 100, and goes up if you kill a Traitor as an Innocent/Detective, and down if you teamkill (e.g. kill a fellow Innocent while being Innocent). 
@@ -89,5 +95,9 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 **Drone turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 **Poison Smoke** - This item can be purchased from the store by a traitor. Once thrown, any players in the smokes radius will begin to take damage. This damage will continue until the smoke dissipates.<font style="color: rgb(255,0,0)"> - Traitor only</font>
+
+**Silent AWP** - This item can be purchased from the store by a traitor. When fired, the first shot coming from this weapon will be completely silent.<font style="color: rgb(255,0,0)"> - Traitor only</font>
+
+**C4** - Purchasing the C4 item allows the player to place a c4 on the ground in a location of their choice. They are then able to choose how long it will be until the C4 explodes.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 ----------
