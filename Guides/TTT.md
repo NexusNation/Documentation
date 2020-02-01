@@ -17,7 +17,7 @@ While playing TTT, you’ll be innocent most of the time, so it’s a good idea 
 
 As the Detective, your main goal is to identify and eliminate all Traitors. Detectives are equipped with unique tools to help them find who the Traitors are. This includes the taser (which is used to identify a player’s role) and the body scanner (identifies the killer of a body). There are also extra items that only the Detective can buy. Notably, heavy armour and the health station.
 
-Detectives can use the process of elimination to identify Traitors. Once you reveal a player to be an ‘Innocent’ by scanning them with a taser, you can call the player ‘proven’ which will make the whole server aware that they are not a Traitor. If all players are proven and all dead bodies have been ID’d, you are allowed to KOS a Traitor.  
+Detectives can use the process of elimination to identify Traitors. Once you reveal a player to be an ‘Innocent’ by scanning them with a taser, you can call the player ‘proven’ which will make the whole server aware that they are not a Traitor. If all players are proven and all dead bodies have been ID’d, you are allowed to KOS the last player alive.  
 
 ##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: #b50024">Playing as a Traitor</u>
 
