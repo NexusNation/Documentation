@@ -9,17 +9,17 @@ Time runs out | **Innocents Win**
 
 The ‘All Innocents Eliminated’ outcome is where there is at least one Traitor left and no Innocents/Detectives alive. The ‘All Traitors Eliminated’ outcome is when at least one Innocent/Detective is left and no Traitors are alive. The ‘Time runs out’ outcome is when there are still Traitors and Innocents left alive. 
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: rgb(0,255,0)">Playing as an Innocent</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: #0fb500">Playing as an Innocent</u>
 
 While playing TTT, you’ll be innocent most of the time, so it’s a good idea to familiarise yourself with the ins and outs of the role. The main objectives of the innocents is to assist the detective in finding the traitors, stay alive and not make themselves suspicious.
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: rgb(0,255,255)">Playing as a Detective</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: #346beb">Playing as a Detective</u>
 
 As the Detective, your main goal is to identify and eliminate all Traitors. Detectives are equipped with unique tools to help them find who the Traitors are. This includes the taser (which is used to identify a player’s role) and the body scanner (identifies the killer of a body). There are also extra items that only the Detective can buy. Notably, heavy armour and the health station.
 
 Detectives can use the process of elimination to identify Traitors. Once you reveal a player to be an ‘Innocent’ by scanning them with a taser, you can call the player ‘proven’ which will make the whole server aware that they are not a Traitor. If all players are proven and all dead bodies have been ID’d, you are allowed to KOS a Traitor.  
 
-##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: rgb(255,0,0)">Playing as a Traitor</u>
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: #b50024">Playing as a Traitor</u>
 
 If you get selected as a Traitor, your main goal will be to eliminate all Innocents and Detectives before the time runs out. You will be able to purchase exclusive Traitor items to aid you in this task. Items such as missiles, trip mines and turrets can be bought to kill Innocents and Detectives. You can also talk in the Traitor chat via chat and voice! Hold down ‘R’ while speaking to only communicate with your Traitor buddies. 
 
@@ -60,3 +60,35 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 **Drone turret** - Purchasing this item from the store allows the player to place a dronegun on the ground that will then shoot at any players within its line of sight, inguring them until death.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 **Poison Smoke** - This item can be purchased from the store by a traitor. Once thrown, any players in the smokes radius will begin to take damage. This damage will continue until the smoke dissipates.<font style="color: rgb(255,0,0)"> - Traitor only</font>
+
+----------
+
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;color: #3700ad">Karma</u>
+
+Every player has a Karma value. Karma ranges from 150 (highest) to 75 (lowest and auto-banned from the server). It starts at 100, and goes up if you kill a Traitor as an Innocent/Detective, and down if you teamkill (e.g. kill a fellow Innocent while being Innocent). 
+
+As previously stated, your Karma can go up and down depending on your actions throughout the course of a round. Here are the points that you can earn/lose for certain actions:
+
+<p style="text-align:center;">Innocent killing Innocent: <font style="color: #b50024">-5</font>
+Innocent killing Traitor: <font style="color: #0fb500">+3</font>
+Innocent killing Detective: <font style="color: #b50024">-10</font>
+
+Innocent damaging Innocent: 0
+Innocent damaging Traitor: <font style="color: #0fb500">+1</font>
+Innocent damaging Detective: 0
+
+Traitor killing Innocent: 0
+Traitor killing Traitor: <font style="color: #b50024">-10</font>
+Traitor killing Detective: <font style="color: #0fb500">+1</font>
+
+Traitor damaging Innocent: 0
+Traitor damaging Traitor: 0
+Traitor damaging Detective: 0
+
+Detective killing Innocent: <font style="color: #b50024">-5</font>
+Detective killing Traitor: <font style="color: #0fb500">+3</font>
+Detective killing Detective: <font style="color: #b50024">-15</font>
+
+Detective damaging Innocent: 0
+Detective damaging Traitor: <font style="color: #0fb500">+1</font>
+Detective damaging Detective: <font style="color: #b50024">-1</font></p>
