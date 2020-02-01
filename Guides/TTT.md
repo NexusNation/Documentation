@@ -33,23 +33,23 @@ Every player has a Karma value. Karma ranges from 150 (highest) to 75 (lowest an
 
 As previously stated, your Karma can go up and down depending on your actions throughout the course of a round. Here are the points that you can earn/lose for certain actions:
 
-<p style="text-align:center;">Innocent killing Innocent: <font style="color: #b50024">-5</font>
-Innocent killing Traitor: <font style="color: #0fb500">+3</font>
+<p style="text-align:center;">Innocent killing Innocent: <font style="color: #b50024">-5</font><br>
+Innocent killing Traitor: <font style="color: #0fb500">+3</font><br>
 Innocent killing Detective: <font style="color: #b50024">-10</font></p>
-<p style="text-align:center;">Innocent damaging Innocent: 0
-Innocent damaging Traitor: <font style="color: #0fb500">+1</font>
+<p style="text-align:center;">Innocent damaging Innocent: 0<br>
+Innocent damaging Traitor: <font style="color: #0fb500">+1</font><br>
 Innocent damaging Detective: 0</p>
-<p style="text-align:center;">Traitor killing Innocent: 0
-Traitor killing Traitor: <font style="color: #b50024">-10</font>
+<p style="text-align:center;">Traitor killing Innocent: 0<br>
+Traitor killing Traitor: <font style="color: #b50024">-10</font><br>
 Traitor killing Detective: <font style="color: #0fb500">+1</font></p>
-<p style="text-align:center;">Traitor damaging Innocent: 0
-Traitor damaging Traitor: 0
+<p style="text-align:center;">Traitor damaging Innocent: 0<br>
+Traitor damaging Traitor: 0<br>
 Traitor damaging Detective: 0</p>
-<p style="text-align:center;">Detective killing Innocent: <font style="color: #b50024">-5</font>
-Detective killing Traitor: <font style="color: #0fb500">+3</font>
+<p style="text-align:center;">Detective killing Innocent: <font style="color: #b50024">-5</font><br>
+Detective killing Traitor: <font style="color: #0fb500">+3</font><br>
 Detective killing Detective: <font style="color: #b50024">-15</font></p>
-<p style="text-align:center;">Detective damaging Innocent: 0
-Detective damaging Traitor: <font style="color: #0fb500">+1</font>
+<p style="text-align:center;">Detective damaging Innocent: 0<br>
+Detective damaging Traitor: <font style="color: #0fb500">+1</font><br>
 Detective damaging Detective: <font style="color: #b50024">-1</font></p>
 
 ----------
