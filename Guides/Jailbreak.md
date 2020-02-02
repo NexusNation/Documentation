@@ -96,7 +96,9 @@ Credit Boxes are dropped upon death of any and all players. These boxes can prov
 |   | <h3>Credit Boxes</h3> |   |
 | - | ---------------------- | - |
 | ![Common](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/common.png?raw=true) <p>Common</p> | ![Uncommon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/uncommon.png?raw=true) <p>Uncommon</p> | ![Rare](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/rare.png?raw=true) <p>Rare</p> |
-| ![Ultrarare](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/ultrarare.png?raw=true) <p>Ultra Rare</p> | ![Legendary](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/legendary.png?raw=true) <p>Legendary</p> | <font style="color: rgb(0,255,255)">Common</font><br>10 Credits<br><font style="color: rgb(0,255,0)">Uncommon</font><br>Low Grav/Lucky Sandwich<br><font style="color: rgb(255,0,0)">Rare</font><br>Freeday/Death/Weapon<br><font style="color: rgb(153,0,76)">Ultra Rare</font><br>500 - 1k Credits<br><font style="color: rgb(255,255,0)">Legendary</font><br>1.5k - 4k Credits
+| ![Ultrarare](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/ultrarare.png?raw=true) <p>Ultra Rare</p> | ![Legendary](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/legendary.png?raw=true) <p>Legendary</p> | ![Key](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/key.png?raw=true) <p> </p> |
+
+<!--<font style="color: rgb(0,255,255)">Common</font><br>10 Credits<br><font style="color: rgb(0,255,0)">Uncommon</font><br>Low Grav/Lucky Sandwich<br><font style="color: rgb(255,0,0)">Rare</font><br>Freeday/Death/Weapon<br><font style="color: rgb(153,0,76)">Ultra Rare</font><br>500 - 1k Credits<br><font style="color: rgb(255,255,0)">Legendary</font><br>1.5k - 4k Credits-->
 
 **Special Days**
 
