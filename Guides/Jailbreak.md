@@ -91,7 +91,13 @@ The Federal Arsenal is similar to the Black Market, but used instead to assist g
 ##### Miscellaneous
 **Credit Boxes**
 
-Credit Boxes are dropped upon death of any and all players. These boxes can provide different amounts of credits and different prizes based on gang/squad perks and the tier of the boxes. Upgrading the perk Stealing in gangs for Prisoners and squads for Guards will increase the amount of credits you receive from teal credit boxes. The full list of credit boxes is as follows:
+Credit Boxes are dropped upon death of any and all players. These boxes can provide different amounts of credits and different prizes based on gang/squad perks and the tier of the boxes. Upgrading the perk Stealing in gangs for Prisoners and squads for Guards will increase the amount of credits you receive from teal credit boxes.
+
+|   | <h3>Credit Boxes</h3> |   |
+| - | ---------------------- | - |
+| ![Common](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/common.png?raw=true) <p>Common</p> | ![Uncommon](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/uncommon.png?raw=true) <p>Uncommon</p> | ![Rare](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/rare.png?raw=true) <p>Rare</p> |
+| ![Ultrarare](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/ultrarare.png?raw=true) <p>Ultra Rare</p> | ![Legendary](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/jailbreak/credits/legendary.png?raw=true) <p>Legendary</p> |
+
 * <font style="color: rgb(0,255,255)">Common</font>         - 10 Credits + Stealing Perk Multiplier
 * <font style="color: rgb(0,255,0)">Uncommon</font>   - Low Gravity or Lucky Sandwich 
 * <font style="color: rgb(255,0,0)">Rare</font>                  - Freeday Pass, Death or a Weapon (HealthShot for guards)
