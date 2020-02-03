@@ -67,6 +67,13 @@ This isn't the full list of items available to Non-VIP Members as there are just
 
 ----------
 
+|   | <h3>Trails</h3> |   |
+| - | ------------- | - |
+| ![8bitmushroom](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/trails/vip/8bitmushroom.png?raw=true) <p>Baseball Bat</p> | ![8bitpow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/trails/vip/8bitpow.png?raw=true) <p>Volcano Fragment</p> | ![Arrowrainbow](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/trails/vip/arrowrainbow.png?raw=true) <p>Butchers Knife</p> | ![Arrows](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/trails/vip/arrows.png?raw=true) <p>Float Noodle</p> | ![Assassin](https://github.com/NexusNation/Documentation/blob/master/Guides/assets/store/trails/vip/assasin.png?raw=true) |
+
+
+----------
+
 
 ### Extra Information
 
