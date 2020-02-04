@@ -66,5 +66,5 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	8. Activating a trap that damages or kills another player.
 	9. Not attempting to kill a KOS'd Traitor (unless there is reasonable doubt of the KOS).
 	10. Damaging the Traitor tester or health stations (unless your life depends on it).
-	11. Being the killer of two DNA scanned dead Innocent/Detective bodies (Detective has to use the DNA scanner item).
+	11. Being the killer of two DNA scanned dead Innocent bodies or one DNA scanned dead Detective body (Detective has to use the DNA scanner item).
 	12. Being the only non-proven player left when all dead bodies have been ID'd.
