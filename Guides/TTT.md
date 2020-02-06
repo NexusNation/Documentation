@@ -102,9 +102,9 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 
 ----------
 
-**Tokens**
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Tokens</u>
 
-Tokens are required when purchasing things off of the store in game. 
+Tokens are required when purchasing things off of the store in game.<br>
 These can be gained by doing the following actions:
 
 
