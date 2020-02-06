@@ -101,3 +101,19 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 **C4** - Purchasing the C4 item allows the player to place a c4 on the ground in a location of their choice. They are then able to choose how long it will be until the C4 explodes.<font style="color: rgb(255,0,0)"> - Traitor only</font>
 
 ----------
+
+**Tokens**
+
+Tokens are required when purchasing things off of the store in game. 
+These can be gained by doing the following actions:
+
+<center>
+**Kill as a Traitor** 
+**Kill as an Innocent**
+**Kill as a Detective**
+**Identifying bodies**
+**Winning a round**
+**Scanning traitors with a taser**
+</center>
+
+----------
