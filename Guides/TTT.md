@@ -108,11 +108,11 @@ Tokens are required when purchasing things off of the store in game.
 These can be gained by doing the following actions:
 
 
-**Kill as a Traitor** 
-**Kill as an Innocent**
-**Kill as a Detective**
-**Identifying bodies**
-**Winning a round**
+**Kill as a Traitor**<br>
+**Kill as an Innocent**<br>
+**Kill as a Detective**<br>
+**Identifying bodies**<br>
+**Winning a round**<br>
 **Scanning traitors with a taser**
 
 
