@@ -107,13 +107,13 @@ If you type “!menu” in chat during a round, a buy-menu will open where you c
 Tokens are required when purchasing things off of the store in game. 
 These can be gained by doing the following actions:
 
-<center>
+
 **Kill as a Traitor** 
 **Kill as an Innocent**
 **Kill as a Detective**
 **Identifying bodies**
 **Winning a round**
 **Scanning traitors with a taser**
-</center>
+
 
 ----------
