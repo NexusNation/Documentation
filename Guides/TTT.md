@@ -33,6 +33,14 @@ To succeed as a Traitor, you will have to use a combination of stealth and decep
 
 ----------
 
+##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Reporting a player</u>
+
+To report players for RDM, if you beleive you have been RDM'd by another player you can now type the command !rdm in chat which will them bring up a menu displaying your last 50 deaths. Selecting the death in which you think you were RDM'd will bring up another menu that will allow you to choose the punishment for the player if they are found guilty of their actions. Once the punishment has been chosen a report will be sent to the staff team which can then be answered when any staff are available.
+
+Reporting players for reasons other than RDM can be done by using the command !calladmin or by opeining a ticket via the #support channel in discord.
+
+----------
+
 ##### <u style="font-family: inherit; font-size: 1.25rem; text-align: inherit; white-space: nowrap;">Karma</u>
 
 Every player has a Karma value. Karma ranges from 150 (highest) to 75 (lowest and auto-banned from the server). It starts at 100, and goes up if you kill a Traitor as an Innocent/Detective, and down if you teamkill (e.g. kill a fellow Innocent while being Innocent). 
