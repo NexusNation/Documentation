@@ -1,6 +1,6 @@
 Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors and Detectives. The Innocents aim is to stay alive whilst helping the Detective discover who the Traitors are. The Detectives have tools in which to aid them with the tracking and elimination of Traitors or simply survive. The Traitors have different methods on how to kill the Innocents and Detectives, if they work together as a team they can successfully win.
 
-1. ##Definitions
+1. ## Definitions
 	1. KOS: Kill on sight (someone has committed a severe Traitorous act and should be killed). 
 	2. RDM: Random Death Match (killing someone without a valid reason).
 	3. Ghosting: Revealing information to a player which couldn't of gained themselves.
@@ -10,7 +10,8 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	7. Camping/Delaying: Staying in one area for more than 30 seconds.
 	8. LOS: Line of sight (having line of sight of a Traitorous act).
 
-2. ##Global Rules
+
+2. ## Global Rules
 	1. The general rules must always be followed.
 	2. Honesty is key, please don't lie to staff about RDM's etc.
 	3. No trying to loophole the rules, use common sense.
@@ -26,7 +27,8 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	13. Players cannot be KOS'd solely off of the guns they're holding or the location they're in.
 	14. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
 
-3. ##Innocent/Detective Rules
+
+3. ## Innocent/Detective Rules
 	1. Do not kill or damage players if they weren't called KOS unless in self-defence.
 	2. As a Detective, you must give 3 T-bait warnings before calling KOS.
 	3. A Detective can never be a Traitor (killing them is forbidden unless in self-defence).
@@ -40,13 +42,15 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	11. Someone is only proven to you as an invidual if you have witnessed it or it has been called by the Detective.
 	12. Innocent tasers have to be used twice on a player to prove them.
 
-4. ##Traitor Rules
+
+4. ## Traitor Rules
 	1. Do not intentionally reveal a fellow Traitor in any way possible.
 	2. You cannot call the initial KOS of a fellow Traitor.
 	3. You may damage/kill a fellow Traitor if you have their approval.
 	4. Do not camp Traitor rooms.
 
-5. ##Suspicious Actions
+
+5. ## Suspicious Actions
 	1. Consistently watching, aiming at and stalking players.
 	2. Having a Traitor only weapon equipped.
 	3. Not responding to a Detective's life check in a reasonable time frame.
@@ -54,7 +58,8 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	5. Moving a dead Traitor's body (this can be seen as an attempt to revive the dead body).
 	6. Moving or carrying explosive barrels towards other players.
 
-6. ##Traitorous Actions
+
+6. ## Traitorous Actions
 	1. Refusing to be scanned by the Detective (after all three warnings have been given).
 	2. Being scanned and proven to be a Traitor.
 	3. Not ID'ing dead bodies (that they have obviously seen).

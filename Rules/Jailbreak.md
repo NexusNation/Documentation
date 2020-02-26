@@ -1,5 +1,6 @@
 Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Counter-Terrorists). The guards aim is to kill any rebelling prisoners and order them to play games within the prison in order to get to a final prisoner. The prisoners aim is to either survive by listening to the guards orders or by rebelling and killing the remaining guards. The guards are ran by a warden who is automatically selected at the beginning of each round. They are to govern the prison and gives guards explicit orders which they must follow at all times.
-1. ##Definitions
+
+1. ## Definitions
 	1. Hunting: Actively looking for rebels away from the Warden.
 	2. Freekill: If a guard kills a prisoner who was not rebelling.
 	3. Rebelling: Rebelling is when a prisoner turns breaks any prisoner rules or whenever a prisoner is not following order given by the warden.
@@ -14,7 +15,8 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	12. Restriction commands: A command that restricts prisoners from performing a certain action. E.g. Jumping.
 	13. Nazi Day: A day when Guards can punish for minor errors. Can only be done when Guards are consistently struggling to control prisoners and the Warden has specified prior to opening cells that it will be a nazi day, and explained what it is.
 	14. AFK Freeze: not touching your keyboard or mouse and your character is standing still (not emoting or freelooking)
-2. ##Global Rules
+
+2. ## Global Rules
 	1. The general rules must always be followed.
 	2. Honesty is key, please don't lie to staff about free-kills etc.
 	3. No trying to loophole the rules, use common sense. If you obviously loophole as a T, you can be KOSed.
@@ -44,14 +46,16 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	28. When being told to crouch, it implies stay crouched.
 	29. When making a gang make sure the name isn't offensive and that you're not advertising within the name.
 	30. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
-3. ##Newcomer Rules
+
+3. ## Newcomer Rules
 	1. Newcomer -- A Newcomer is a new player (with playtime less than 4 hours for a Prisoner, under 8 hours for a Guard), who’s playermodel is tinted green when not set to a different colour.
 	2. If a Newcomer did not make it to the previous LR Partners stage, at least 1 newcomer must be kept alive until LR Partners stage if possible.
 	3. If a prisoner is given the choice to choose prisoners to live/die, at least ⅓ of the surviving prisoners must be Newcomers.
 	4. Unless fully rebelling, Newcomers must always be warning shot instead of being KOS.
 	5. Be considerate of newcomer Guards. Do not Try and catch them on every little detail, but do feel free to inform them of any major mistakes they make.
 	6. Do not excessively target newcomer guards as an easy rebel. They are there to learn and you constantly targeting them will discourage them from learning how to properly be a guard.
-3. ##Rules for Prisoners
+
+3. ## Rules for Prisoners
 	1. All prisoners are considered rebels if they are seen to be trying to escape or rush/attack a guard. (with exceptions)
 	2. Being in the armory, knifing or entering vents, shortcuts and having a gun unholstered (in hand) instantly makes prisoners a rebel unless the warden has given permission to do so.
 	3. Actively disobeying commands is classed as rebelling. This includes restriction commands.
@@ -68,7 +72,8 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	14. Toy guns are not allowed.
 	15. Intentionally supplying a weapon to another T is counted as rebelling.
 	16. Prisoners are allowed to snitch only if the warden has granted them permission, which they may request.
-4. ##Rules For Guards
+
+4. ## Rules For Guards
 	1. To be a guard you need to have a clear microphone and be willing to be a warden if selected.
 	2. Favouritism is not allowed in any form, other than giving consideration to Newcomers.
 	3. Guards cannot enter the vents unless a prisoner is seen inside the vents or entering a vent.
@@ -91,7 +96,8 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	20. Once the last prisoner is choosing LR, CT's must run away and prepare to fight, if they ask you not to follow them.
 	21. CT cannot lie about Warden commands. E.g. Where the marker is, what restrictions are in place or similar.
 	22. You must actively hunt the last rebelling T, otherwise, it will be classed as delaying.
-5. ##Rules for Wardens
+
+5. ## Rules for Wardens
 	1. You must follow the guard rules as well as the rules for wardens.
 	2. In order to be a warden all your instructions must be clear and follow the server definitions (see below).
 	3. Do not give orders to guards which make them bait prisoners.
@@ -129,7 +135,8 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	35. On Jb_temple_studios_tnn and Jb_turkey Friendly Fire as a whole is not allowed due to the large player count in cells.
 	36. Wardens may not make prisoners play deathball in a small area. The play area must have lots of space to dodge the ball. E.g. The cell medic on jb Peanut would be too small, but the cage outside would be big enough
 	37. Maths or Random Select (Unless during pass or keep minigame) is not to be used to select a prisoner to decide an amount of prisoner to live/die. E.g. Maths to choose 5 Prisoners to die
-6. ##Last Request/Special Day Rules
+
+6. ## Last Request/Special Day Rules
 	1. During !lr you have the ability to specify your rules and conditions to your LR (with exceptions)
 	2. LRs must be fair in starting points, e.g. in shot 4 shot you cannot select mag-7 and go right up into the Guard's face.
 	3. Both parties of the LR must be ready before you start an LR.
@@ -142,7 +149,8 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	10. Players cannot slay themselves or kill themselves if they do not like an LR game.
 	11. Prisoners can still be classed as rebelling when they have access to LR. Being last alive is not a free pass to intimidate guards.
 	12. Teaming is not allowed in special days except Hunger Games.
-7. ##Special Days
+
+7. ## Special Days
 	1. Bhop Battle - You have to use knife kill everyone, with bunny hop enabled.
 	2. Knife Battle - You have to use a knife to kill everyone. You have 3 lifes.
 	3. Kill confirmed - Kill someone and a chicken will drop, pick it up and they will be unable to respawn, just like the COD gamemode ‘Kill Confirmed’.
@@ -163,38 +171,39 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 		1. The prisoner that is choosing the special day at the end of the round MUST ask a staff member if they are allowed to do a Hide and Seek day. This is due to the fact that staff members are the only ones with perms to heal the Guard team so that they cannot be killed. If a staff member is not online at that given time Hide and Seek will not be able to be chosen as a special day.
 		2. Use of the federal arsenal by the guard team is not permitted as it may create an unfair advantage for the seekers. (E.g The UAV which can be purchased from the federal arsenal will show the location of all members on the enemy team on the minimap, Which when used by a seeker (Member of the guard team) will destroy the point of the special day and ruin the fun of the round for all participants.)
 		3. Snitching by a member of the hiding team is not allowed. This will ruin the round for other members of the hiding team as their position has just been given away. People who break this rule will be punished accordingly.
-8. ##Commands
 
-| Commands | Function |
-| ------------ | ------------- |
-| !t, !p, !prisoner | Switches you to the Prisoners team |
-| !ct, !g, !guard | Switches you to the Guard team |
-| !menu | Opens Guard/Prisoner/Spectator Menu |
-| !open | Opens the cells |
-| !close | Closes the cells |
-| !days | Open special days menu |
-| !mini | Open mini games menu |
-| !fd | Open freeday menu |
-| !heal | Open heal menu |
-| !glow | Open glow menu |
-| !qrevive | Open quick revive menu |
-| !tools | Open tools menu |
-| !w | Claims warden |
-| !tw | Transfers warden |
-| !guns | Open guns menu |
-| !math | Starts a math challenge |
-| !lr | Open Last Request menu |
-| !ball | Aquire the ball |
-| !reset | Resets the ball |
-| !gang, !gangs | Opens gang menu |
-| !gsay | Communicate with fellow gang members |
-| !squad, !squads | Opens squad menu |
-| !ssay | Communicate with fellow squad members |
-| !bm, !blackmarket | Opens T Item menu |
-| !fa, !federal | Opens CT Item menu |
-| !store | Opens Store menu |
-| !credits | Check all players credits (prints your credits in chat) |
-| !stats | Opens stats menu |
-| !stop | Stops all sounds |
+8. ## Commands
+
+	| Commands | Function |
+	| ------------ | ------------- |
+	| !t, !p, !prisoner | Switches you to the Prisoners team |
+	| !ct, !g, !guard | Switches you to the Guard team |
+	| !menu | Opens Guard/Prisoner/Spectator Menu |
+	| !open | Opens the cells |
+	| !close | Closes the cells |
+	| !days | Open special days menu |
+	| !mini | Open mini games menu |
+	| !fd | Open freeday menu |
+	| !heal | Open heal menu |
+	| !glow | Open glow menu |
+	| !qrevive | Open quick revive menu |
+	| !tools | Open tools menu |
+	| !w | Claims warden |
+	| !tw | Transfers warden |
+	| !guns | Open guns menu |
+	| !math | Starts a math challenge |
+	| !lr | Open Last Request menu |
+	| !ball | Aquire the ball |
+	| !reset | Resets the ball |
+	| !gang, !gangs | Opens gang menu |
+	| !gsay | Communicate with fellow gang members |
+	| !squad, !squads | Opens squad menu |
+	| !ssay | Communicate with fellow squad members |
+	| !bm, !blackmarket | Opens T Item menu |
+	| !fa, !federal | Opens CT Item menu |
+	| !store | Opens Store menu |
+	| !credits | Check all players credits (prints your credits in chat) |
+	| !stats | Opens stats menu |
+	| !stop | Stops all sounds |
 
 ### If you want more info on Jailbreak, please look at the [Jailbreak Guide](https://thenexusnation.com/jailbreak-guide)
