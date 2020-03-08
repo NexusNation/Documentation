@@ -25,7 +25,8 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	11. If a player does not say "name KOS", or , "KOS name", they cannot be KOS'd.
 	12. Players can call KOS on any other player as long as it is for a Traitorous act (Traitors can't call KOS on their T buddies). 
 	13. Players cannot be KOS'd solely off of the guns they're holding or the location they're in.
-	14. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
+	14. Players can give 3 warnings to another to stop following, if they do not do so they are deemed KOS.
+	15. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
 
 
 3. ## Innocent/Detective Rules
@@ -72,3 +73,4 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	10. Damaging the Traitor tester or health stations (unless your life depends on it).
 	11. Being the killer of two DNA scanned dead Innocent bodies or one DNA scanned dead Detective body (Detective has to use the DNA scanner item).
 	12. Being the only non-proven player left when all dead bodies have been ID'd.
+	13. Following a player without reason (another traitorous action).
