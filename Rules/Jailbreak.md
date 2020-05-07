@@ -132,7 +132,7 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	32. Wardens are allowed to ask the last non-rebel if they would like to bloodhound the remaining rebels.
 	33. You can only turn on friendly fire on in the cells before the doors are opened, however you cannot force prisoners to kill one another, it is voluntary. The only exception to this is “Knife Battle”.
 	34. Please keep "Friendly Fire" to a bare minimum (once or twice per map).
-	35. On Jb_temple_studios_tnn and Jb_Tropico Friendly Fire as a whole is not allowed due to the large player count in cells.
+	35. On Jb_temple_studios_tnn and Jb_tropico Friendly Fire as a whole is not allowed due to the large player count in cells.
 	36. Wardens may not make prisoners play deathball in a small area. The play area must have lots of space to dodge the ball. E.g. The cell medic on jb Peanut would be too small, but the cage outside would be big enough
 	37. Maths or Random Select (Unless during pass or keep minigame) is not to be used to select a prisoner to decide an amount of prisoner to live/die. E.g. Maths to choose 5 Prisoners to die
 
