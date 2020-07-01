@@ -27,6 +27,7 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	13. Players cannot be KOS'd solely off of the guns they're holding or the location they're in.
 	14. Players can give 3 warnings to another to stop following, if they do not do so they are deemed KOS.
 	15. You may not encourage other players to RTV a map, though you may suggest maps to be voted on when it comes up.
+	16. No Abusing Props to move. This Includes but is not limited to; prop climbing, prop surfing and prop pushing.
 
 
 3. ## Innocent/Detective Rules
