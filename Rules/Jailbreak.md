@@ -165,12 +165,8 @@ Jailbreak is a gamemode in which involves prisoners (Terrorists) and guards (Cou
 	12. Gun game - All start with a gun and have to get 2 kills with that gun to upgrade it just like the COD game mode.
 	13. Hunger Games - All players spawn in a circle surrounding a crate. You must go out and break crates to get weapons from them.
 	14. War - Prisoners are Blinded, and guards (with increased Hp and speed) must all go to one area and wait for prisoners, who are given Ak-47s to be unblinded and then attempt to find and kill them.
-	15. Special day vote - Vote for a special day
-	16. Hide and seek day - Custom special day that can be chosen by a prisoner if a Mod agrees. Prisoners will hide in spots across the map, whilst the Guards wait in armory until the clock has ticked down to 7:30. The members on the Guard team (CT side) will be healed to a high HP level so that they cannot be killed by prisoners whilst seeking.
-	17. As Hide and Seek is a custom LR and has not been implimented into the jailbreak plugins there is a few rules you must follow when taking part:
-		1. The prisoner that is choosing the special day at the end of the round MUST ask a staff member if they are allowed to do a Hide and Seek day. This is due to the fact that staff members are the only ones with perms to heal the Guard team so that they cannot be killed. If a staff member is not online at that given time Hide and Seek will not be able to be chosen as a special day.
-		2. Use of the federal arsenal by the guard team is not permitted as it may create an unfair advantage for the seekers. (E.g The UAV which can be purchased from the federal arsenal will show the location of all members on the enemy team on the minimap, Which when used by a seeker (Member of the guard team) will destroy the point of the special day and ruin the fun of the round for all participants.)
-		3. Snitching by a member of the hiding team is not allowed. This will ruin the round for other members of the hiding team as their position has just been given away. People who break this rule will be punished accordingly.
+	15. Hide And Seek - Hide and seek is another special day where the job of the CTs is to hunt down and find the Ts after they have had time to hide.
+	16. Special day vote - Vote for a special day
 
 8. ## Commands
 
