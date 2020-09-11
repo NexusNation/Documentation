@@ -42,7 +42,6 @@ Trouble in Terrorist Town is a gamemode in which involves Innocents, Traitors an
 	9. You may repeat a KOS at any time in the round as long as it is within the correct format.
 	10. Being shot at or shooting a Traitor does not make you proven.
 	11. Someone is only proven to you as an invidual if you have witnessed it or it has been called by the Detective.
-	12. Innocent tasers have to be used twice on a player to prove them.
 
 
 4. ## Traitor Rules
