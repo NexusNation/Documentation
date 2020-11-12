@@ -4,4 +4,4 @@ All documentation in this repository is exclusively for NexusNation Servers only
 
 ---
 
-Copyright (c) 2013 - 2019 | NexusNation | All rights reserved
+Copyright (c) 2013 - 2020 | NexusNation | All rights reserved
