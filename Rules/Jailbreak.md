@@ -15,7 +15,8 @@ Jailbreak is a game mode in which involves prisoners (Terrorists) and guards (Co
 	12. Restriction commands: A command that restricts prisoners from performing a certain action. E.g. Jumping.
 	13. Nazi Day: A day when Guards can punish for minor errors. Can only be done when Guards are consistently struggling to control prisoners and the Warden has specified prior to opening cells that it will be a nazi day and explained what it is.
 	14. AFK Freeze: not touching your keyboard or mouse and your character is standing still (not emoting or free-looking)
-	15. Snitching: Telling the guards negative information about a fellow T, e.g. "Warden, Citizen has a gun" is snitching while "Warden, there's a gun in front of the marker" is not snitching
+	15. Snitching: Telling the guards negative information about a fellow T, e.g. "Warden, Citizen has a gun" is snitching while "Warden, there's a gun in front of the marker" is not snitching.
+	16. KOS: "Kill on sight". Being called KOS means when a guard sees a KOS person, they should kill the KOS person, usually for breaking a restriction or rebelling (Shown above).
 
 2. ## Global Rules
 	1. The general rules must always be followed.
@@ -60,7 +61,7 @@ Jailbreak is a game mode in which involves prisoners (Terrorists) and guards (Co
 3. ## Rules for Prisoners
 	1. All prisoners are considered rebels if they are seen to be trying to escape or rush/attack a guard. (with exceptions)
 	2. Going past where the warden has told you to go/stop at high speed (e.g. bhopping/boosted) is classed as either running away or rushing if you are going towards a guard.
-	2. Being in the armoury, knifing or entering vents, shortcuts, and having a gun unholstered (in hand) instantly makes prisoners a rebel unless the warden has given permission to do so.
+	2. Being in the armoury, a KOS zone, knifing or entering vents, shortcuts, and having a gun unholstered (in hand) instantly makes prisoners a rebel unless the warden has given permission to do so.
 	3. Actively disobeying commands is classed as rebelling. This includes restriction commands.
 	4. Orders take effect where you stand (when told to crouch walk follow warden don't jump first and then crouch walk, take 1 step out of your cell and freeze means not doing something else first).
 	5. Wait until the warden has finished completing the order.
@@ -203,11 +204,10 @@ Jailbreak is a game mode in which involves prisoners (Terrorists) and guards (Co
 	| !gsay | Communicate with fellow gang members |
 	| !squad, !squads | Opens squad menu |
 	| !ssay | Communicate with fellow squad members |
-	| !bm, !blackmarket | Opens T Item menu |
 	| !fa, !federal | Opens CT Item menu |
 	| !store | Opens Store menu |
 	| !credits | Check all players credits (prints your credits in chat) |
 	| !stats | Opens stats menu |
 	| !stop | Stops all sounds |
 
-### If you want more info on Jailbreak, please look at the [Jailbreak Guide](https://thenexusnation.com/jailbreak-guide)
+### If you want more info on Jailbreak, please look at the [Jailbreak Guide](https://nexusnation.gg/guides)
