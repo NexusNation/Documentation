@@ -18,8 +18,8 @@ Common sense applies to ALL rules, attempting to find loopholes by saying “thi
 	2. Do not excessively hound, insult or target players or staff.
 
 
-3. ##### No external programs, software or scripts. 
-	1. Any kind of third party software or scripts are against our rules and will result in you being permanently banned. This ban will not be appealable and you will be also banned from the website. This includes, but is not limited to; Bunny Hop Scripts, AHK Scripts (Auto-Hot-Key), Strafe Hacks or any other software that gives you an unfair advantage. 
+3. ##### No external programs, software, hardware or scripts. 
+	1. Any kind of third party software or scripts are against our rules and will result in you being permanently banned. This ban will not be appealable and you will be also banned from the website. This includes, but is not limited to; Bunny Hop Scripts, AHK Scripts (Auto-Hot-Key), Strafe Hacks or any other software that gives you an unfair advantage. The use of Hyperscroll/ Free-Scrolling mouse wheels is also prohibited.
 
 
 4. ##### No map/server exploiting. 
