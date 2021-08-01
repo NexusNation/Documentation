@@ -142,6 +142,7 @@ Jailbreak is a game mode in which involves prisoners (Terrorists) and guards (Co
 	37. Ticking Time Bomb and Deathball deaths are limited to a combined 3 prisoners. They also cannot be played with less than 10 non-rebel Ts.
 	38. Maths or Random Select (Unless during pass or keep minigame) is not to be used to select a prisoner to decide an amount of prisoner to live/die. E.g. Maths to choose 5 Prisoners to die
 	39. Talent Days and their variants are not allowed.
+	31. For custom minigames that require you to complete a jump to live (including LJ blocks), the max distance you can make Prisoners jump is 240units (!measure). This value should be adjusted if the jump has a vertical component. You can exceed this value if all participating prisoners consent.
 
 6. ## Last Request/Special Day Rules
 	1. During !lr you have the ability to specify your rules and conditions to your LR (with exceptions)
@@ -182,6 +183,7 @@ Jailbreak is a game mode in which involves prisoners (Terrorists) and guards (Co
 	| ------------ | ------------- |
 	| !t, !p, !prisoner | Switches you to the Prisoners team |
 	| !ct, !g, !guard | Switches you to the Guard team |
+	| !s, !spec | Switches you to the Spectator team |
 	| !menu | Opens Guard/Prisoner/Spectator Menu |
 	| !open | Opens the cells |
 	| !close | Closes the cells |
@@ -209,5 +211,6 @@ Jailbreak is a game mode in which involves prisoners (Terrorists) and guards (Co
 	| !credits | Check all players credits (prints your credits in chat) |
 	| !stats | Opens stats menu |
 	| !stop | Stops all sounds |
+	| !measure | Measure distances of jumps |
 
 ### If you want more info on Jailbreak, please look at the [Jailbreak Guide](https://nexusnation.gg/guides)
